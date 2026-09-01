@@ -1,0 +1,13 @@
+{
+  "updated": "2026-09-01",
+  "clients": [
+    {
+      "id": "meteor-client",
+      "display_name": "Meteor Client",
+      "filename_patterns": ["^meteor-client-.*\\.jar$", "^meteor-.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": ["meteor-client"],
+      "mixin_patterns": ["meteor-client.mixins.json"]
+    }
+  ]
+}

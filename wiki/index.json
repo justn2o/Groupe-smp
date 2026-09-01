@@ -1,0 +1,12 @@
+{
+  "sections": [
+    {
+      "id": "demarrage",
+      "title": "Démarrage",
+      "pages": [
+        { "id": "bienvenue", "title": "Bienvenue", "path": "bienvenue.md" },
+        { "id": "regles", "title": "Règles du serveur", "path": "regles.md" }
+      ]
+    }
+  ]
+}
