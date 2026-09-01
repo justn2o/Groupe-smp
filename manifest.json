@@ -2,6 +2,199 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.249",
-  "manifest_version": 4,
-  "mods": []
+  "manifest_version": 5,
+  "mods": [
+    {
+      "modrinth_id": "LOpKHB2A",
+      "modrinth_version_id": "1gzy0HSm",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "oWaK0Q19",
+      "modrinth_version_id": "44pLdPGg",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "joEfVgkn",
+      "modrinth_version_id": "PV8oLZ1q",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "6avVoBVB",
+      "modrinth_version_id": "Zb6dytvm",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "edU0NbZZ",
+      "modrinth_version_id": "SobtrAG5",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "u6dRKJwZ",
+      "modrinth_version_id": "w1zqfWJi",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "rlloIFEV",
+      "modrinth_version_id": "LcOq0PxG",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "Ua7DFN59",
+      "modrinth_version_id": "K3Dp2T0P",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "v8jzRtAt",
+      "modrinth_version_id": "X9nq0PvS",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "uXXizFIs",
+      "modrinth_version_id": "x7kQWVju",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "modrinth_id": "hB899VmG",
+      "modrinth_version_id": "KZR7AUbh",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "MBAkmtvl",
+      "modrinth_version_id": "KgypwTqX",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "Z9OywhE4",
+      "modrinth_version_id": "IHVdcpYW",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "lhGA9TYQ",
+      "modrinth_version_id": "1IiqEQGl",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "ordsPcFz",
+      "modrinth_version_id": "uhJhCT7X",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "ulloLmqG",
+      "modrinth_version_id": "Q29JlZfU",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "1oUDhxuy",
+      "modrinth_version_id": "3AOwEzBy",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "DYtfQEYj",
+      "modrinth_version_id": "YxnBXtLv",
+      "required": true,
+      "category": "utilitaire"
+    },
+    {
+      "modrinth_id": "R2OftAxM",
+      "modrinth_version_id": "XTVZDOol",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "eE2Db4YU",
+      "modrinth_version_id": "B2YtQYCh",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "nPZr02ET",
+      "modrinth_version_id": "O09BGtgh",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "WrpuIfhw",
+      "modrinth_version_id": "Zwf8nv8y",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "bK3Ubu9p",
+      "modrinth_version_id": "nS0Yahr5",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "klXONLDA",
+      "modrinth_version_id": "3BGfKjMb",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "LNytGWDc",
+      "modrinth_version_id": "UjX6dr61",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "F8BQNPWX",
+      "modrinth_version_id": "BLB7ktFs",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "hYykXjDp",
+      "modrinth_version_id": "MAPG6cXE",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "T9PomCSv",
+      "modrinth_version_id": "U678xqle",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "dtWC90iB",
+      "modrinth_version_id": "Z5V3Ps7S",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "OQAgZMH1",
+      "modrinth_version_id": "FQq1mkSi",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "V8rh24lv",
+      "modrinth_version_id": "Y1KWrXQc",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "x3HZvrj6",
+      "modrinth_version_id": "RkWu0N4D",
+      "required": true,
+      "category": "gameplay"
+    }
+  ]
 }
