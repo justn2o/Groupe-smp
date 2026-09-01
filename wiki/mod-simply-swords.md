@@ -42,7 +42,8 @@ fonctionnent mais avec l'animation d'attaque vanilla.
 
 ## Ajouter ce mod au serveur
 
-Pour l'ajouter réellement (pas juste le documenter ici), suis le § 3 de
-`SETUP.md` dans le repo du launcher — il faut ajouter **une entrée par mod
-ci-dessus** (Simply Swords + ses 3 dépendances requises) dans
-`manifest.json`, pas seulement Simply Swords seul.
+Ce mod n'a pas été ajouté à `manifest.json` — cette page est là pour
+information/discussion uniquement. Si vous décidez de l'ajouter plus tard,
+il faudra une entrée **par mod du tableau ci-dessus** (Simply Swords + ses
+3 dépendances requises), pas seulement Simply Swords seul — suis le § 3 de
+`SETUP.md` dans le repo du launcher.

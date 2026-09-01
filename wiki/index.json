@@ -12,7 +12,8 @@
       "id": "mods",
       "title": "Mods",
       "pages": [
-        { "id": "simply-swords", "title": "Simply Swords", "path": "mod-simply-swords.md" }
+        { "id": "simply-swords", "title": "Simply Swords", "path": "mod-simply-swords.md" },
+        { "id": "create", "title": "Create", "path": "mod-create.md" }
       ]
     }
   ]
