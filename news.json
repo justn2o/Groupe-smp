@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-09-01-fix-lancement",
+    "title": "Correctif : le jeu ne se lançait pas",
+    "date": "2026-09-01",
+    "tag": "maj-mods",
+    "manifest_version": 4,
+    "body_markdown": "Le build NeoForge utilisé jusqu'ici (`21.1.100`) plantait au démarrage à cause d'un bug de chargement de ses bibliothèques natives. Passage à la version `21.1.249`, testée et fonctionnelle. Si le jeu était déjà installé, relance simplement le launcher : la mise à jour se fait automatiquement."
+  },
+  {
     "id": "2026-09-01-bienvenue",
     "title": "Le launcher est en ligne",
     "date": "2026-09-01",
