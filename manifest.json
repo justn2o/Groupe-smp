@@ -1,6 +1,32 @@
 {
-  "minecraft_version": "1.20.1",
-  "forge_version": "47.3.12",
-  "manifest_version": 1,
-  "mods": []
+  "minecraft_version": "1.21.1",
+  "loader": "neoforge",
+  "loader_version": "21.1.100",
+  "manifest_version": 2,
+  "mods": [
+    {
+      "modrinth_id": "architectury-api",
+      "modrinth_version_id": "1IiqEQGl",
+      "required": true,
+      "category": "core"
+    },
+    {
+      "modrinth_id": "simply-tooltips",
+      "modrinth_version_id": "Zb6dytvm",
+      "required": true,
+      "category": "core"
+    },
+    {
+      "modrinth_id": "fzzy-config",
+      "modrinth_version_id": "MAPG6cXE",
+      "required": true,
+      "category": "core"
+    },
+    {
+      "modrinth_id": "simply-swords",
+      "modrinth_version_id": "nS0Yahr5",
+      "required": false,
+      "category": "gameplay"
+    }
+  ]
 }

@@ -5,5 +5,13 @@
     "date": "2026-09-01",
     "tag": "annonce",
     "body_markdown": "Première version du launcher du **Groupe SMP**. Les mods sont gérés automatiquement — plus besoin de les installer à la main."
+  },
+  {
+    "id": "2026-09-01-simply-swords",
+    "title": "Ajout de Simply Swords",
+    "date": "2026-09-01",
+    "tag": "maj-mods",
+    "manifest_version": 2,
+    "body_markdown": "Ajout du mod **Simply Swords** (armes uniques) et de ses dépendances (Architectury API, Simply Tooltips, Fzzy Config). Voir la page wiki pour le détail."
   }
 ]

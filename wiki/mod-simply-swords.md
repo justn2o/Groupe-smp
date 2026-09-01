@@ -11,7 +11,7 @@ des styles de jeu et animations différentes selon l'arme.
 
 ## Compatibilité
 
-- Minecraft **1.20.1**, loader **Forge** ✓ (compatible avec la config
+- Minecraft **1.21.1**, loader **NeoForge** ✓ (compatible avec la config
   actuelle du serveur)
 - **Doit être installé côté client ET côté serveur** — ce n'est pas un mod
   cosmétique client-only.
@@ -26,14 +26,15 @@ des styles de jeu et animations différentes selon l'arme.
 ## ⚠️ Dépendances obligatoires
 
 Simply Swords **ne fonctionne pas seul** — la dernière version compatible
-1.20.1 Forge (`1.70.2-1.20.1`) nécessite ces mods en plus, sinon le
+1.21.1 NeoForge (`1.70.2-1.21.1`) nécessite ces mods en plus, sinon le
 chargement du jeu échoue :
 
-| Mod | Modrinth ID | Rôle |
-|---|---|---|
-| **Architectury API** | `architectury-api` | requis |
-| **Simply Tooltips** | `simply-tooltips` | requis |
-| **Fzzy Config** | `fzzy-config` | requis |
+| Mod | Modrinth ID | Version (NeoForge 1.21.1) | Rôle |
+|---|---|---|---|
+| Simply Swords | `simply-swords` | `nS0Yahr5` | — |
+| **Architectury API** | `architectury-api` | `1IiqEQGl` | requis |
+| **Simply Tooltips** | `simply-tooltips` | `Zb6dytvm` | requis |
+| **Fzzy Config** | `fzzy-config` | `MAPG6cXE` | requis |
 
 **Optionnel mais recommandé** : **Better Combat** (`better-combat`) — anime
 les animations d'attaque uniques par arme ; sans lui, les armes
