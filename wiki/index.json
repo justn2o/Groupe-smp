@@ -7,6 +7,13 @@
         { "id": "bienvenue", "title": "Bienvenue", "path": "bienvenue.md" },
         { "id": "regles", "title": "Règles du serveur", "path": "regles.md" }
       ]
+    },
+    {
+      "id": "mods",
+      "title": "Mods",
+      "pages": [
+        { "id": "simply-swords", "title": "Simply Swords", "path": "mod-simply-swords.md" }
+      ]
     }
   ]
 }
