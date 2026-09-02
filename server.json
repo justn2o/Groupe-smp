@@ -5,7 +5,7 @@
   "loader": "neoforge",
   "loader_version": "21.1.249",
   "cheat_detection": {
-    "mode": "info",
+    "mode": "block",
     "clients": ["meteor-client"]
   }
 }
