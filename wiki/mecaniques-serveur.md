@@ -6,9 +6,73 @@ réglées spécialement pour nous.
 
 ## Sommaire
 
+- [Se connecter : mot de passe obligatoire](#se-connecter--mot-de-passe-obligatoire)
+- [Se protéger du PvP](#se-protéger-du-pvp)
 - [Le Cœur de Vie](#le-cœur-de-vie)
 - [Un seul Totem d'immortalité](#un-seul-totem-dimmortalité)
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
+
+## Se connecter : mot de passe obligatoire
+
+Le serveur tourne en mode hors-ligne pour que le launcher fonctionne sans
+compte Microsoft. Conséquence : **n'importe qui pourrait se connecter avec le
+pseudo de quelqu'un d'autre**. Un mot de passe personnel referme cette porte.
+
+### À ta première connexion
+
+```
+/register <motdepasse> <motdepasse>
+```
+
+Le mot de passe est répété pour éviter une faute de frappe.
+
+### À chaque connexion suivante
+
+```
+/login <motdepasse>
+```
+
+Tant que tu n'es pas identifié, tu ne peux ni bouger, ni parler, ni toucher
+quoi que ce soit — et tu es déconnecté au bout d'une minute. C'est normal.
+
+Pour changer de mot de passe : `/changepassword <ancien> <nouveau>`.
+
+> **Choisis un mot de passe que tu n'utilises nulle part ailleurs.** Il est
+> stocké haché (BCrypt), donc illisible en clair même pour un administrateur,
+> mais la règle vaut pour tous les serveurs de jeu.
+
+Si tu l'oublies, demande à un administrateur : il peut effacer ton
+enregistrement pour que tu refasses un `/register`.
+
+## Se protéger du PvP
+
+Tu peux te retirer du PvP :
+
+```
+/pvp          → active ou désactive la protection
+/pvp statut   → affiche ton état et le temps d'attente restant
+```
+
+**La protection marche dans les deux sens.** Protégé, tu ne peux pas être
+frappé par les autres joueurs, mais **tu ne peux pas les frapper non plus**.
+Impossible donc de s'en servir pour attaquer sans risque.
+
+Ça couvre aussi les coups indirects : flèches, potions, tout ce qui remonte à
+un joueur.
+
+### Trois garde-fous
+
+Le changement est refusé si :
+
+1. **Tu es en combat** — 15 secondes après le dernier coup donné ou reçu.
+2. **Un joueur est à moins de 20 blocs** — le message te dit qui.
+3. **Moins de 15 minutes** se sont écoulées depuis ton dernier changement.
+
+Ces règles empêchent d'activer la protection en plein combat, ou de la couper
+juste le temps de porter un coup. Le compte à rebours de 15 minutes utilise
+l'heure réelle : un redémarrage du serveur ne le remet pas à zéro.
+
+Le réglage survit à la mort et à la déconnexion.
 
 ## Le Cœur de Vie
 
