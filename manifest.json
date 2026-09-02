@@ -2,7 +2,7 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.249",
-  "manifest_version": 12,
+  "manifest_version": 13,
   "mods": [
     {
       "modrinth_id": "LOpKHB2A",
@@ -213,10 +213,10 @@
     {
       "custom_id": "heartoflife",
       "display_name": "Heart of Life",
-      "download_url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/custom-mods/heartoflife-1.1.0.jar",
-      "version": "1.1.0",
-      "sha1": "b6c4dc458acd19674805627c45375f387203a5e7",
-      "file_name": "heartoflife-1.1.0.jar",
+      "download_url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/custom-mods/heartoflife-1.2.0.jar",
+      "version": "1.2.0",
+      "sha1": "edcee74a78a255f79d3c7296d0f1e5733255eb79",
+      "file_name": "heartoflife-1.2.0.jar",
       "required": true,
       "category": "gameplay"
     }
