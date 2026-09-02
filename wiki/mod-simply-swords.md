@@ -151,15 +151,25 @@ activable au clic droit).
 
 ### L'Éveil (Awakening)
 
-Une arme Unique trouvée en butin commence "endormie" (niveau d'Éveil 0) :
-ses dégâts et sa vitesse d'attaque de base sont réduits (50 % / 75 % des
-valeurs finales), et sa capacité spéciale reste scellée jusqu'au niveau 4.
-On la réveille en la nourrissant de **Tablettes Runiques** dans une **Forge
-Runique**, jusqu'au niveau maximum (8), où elle atteint toutes ses
-statistiques et capacités complètes. Certaines familles d'armes Uniques
-(comme la Lichblade ou la Dormant Relic) suivent leur propre progression
-narrative en plus de l'Éveil classique — voir leurs entrées dans le
-catalogue.
+> **Désactivé sur le Groupe SMP.** Toutes les armes Uniques fonctionnent
+> directement à leur **niveau d'Éveil maximum** : statistiques complètes et
+> capacité spéciale utilisable dès le ramassage. Rien à forger, aucune
+> Tablette Runique nécessaire.
+
+Dans le mod d'origine, une arme Unique trouvée en butin arrive "endormie"
+(niveau d'Éveil 0) : dégâts et vitesse d'attaque réduits (50 % / 75 % des
+valeurs finales), et surtout **capacité spéciale scellée jusqu'au niveau 4**
+sur 8. Il fallait la nourrir de Tablettes Runiques dans une Forge Runique
+pour la réveiller.
+
+C'est ce qui rendait les armes trouvées décevantes : le clic droit ne
+faisait rien tant qu'elles n'étaient pas éveillées. Comme notre progression
+passe par l'exploration et les boss plutôt que par le craft, ce système a
+été désactivé — les Forges Runiques n'acceptent donc plus les armes.
+
+**Deux exceptions** : la **Slumbering Lichblade** et la **Dormant Relic**
+gardent leur propre progression narrative, qui est indépendante de l'Éveil
+classique. Voir leurs entrées dans le catalogue.
 
 ### Les emplacements de gemmes
 

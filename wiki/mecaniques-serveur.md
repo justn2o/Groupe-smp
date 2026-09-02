@@ -84,5 +84,15 @@ Les armes Uniques de **Simply Swords** sont bien plus faciles à obtenir chez
 nous que dans le mod d'origine : chaque boss en laisse tomber une garantie,
 et les grandes structures ont des taux fortement relevés.
 
+**Et elles arrivent prêtes à l'emploi.** Normalement, une arme Unique tombe
+"endormie" : sa capacité au clic droit est scellée tant qu'on ne l'a pas
+éveillée à la Forge Runique, ce qui demande des Tablettes Runiques. C'est
+désactivé ici — toute arme ramassée fonctionne **immédiatement à son niveau
+maximum**, statistiques complètes et capacité spéciale incluse.
+
+Le pool de butin contient **40 armes** sur les 58 du mod. Les 18 autres ne
+s'obtiennent que par les Reliques Contenues — c'est voulu par le mod, pas un
+réglage de notre part.
+
 Les détails complets (tableaux de chances par boss et par structure) sont sur
 la page **Simply Swords**, section *Comment les obtenir*.
