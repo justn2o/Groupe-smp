@@ -9,9 +9,17 @@
       ]
     },
     {
+      "id": "serveur",
+      "title": "Notre serveur",
+      "pages": [
+        { "id": "mecaniques-serveur", "title": "Mécaniques du Groupe SMP", "path": "mecaniques-serveur.md" }
+      ]
+    },
+    {
       "id": "mods",
       "title": "Mods",
       "pages": [
+        { "id": "origins", "title": "Origines & Classes", "path": "mod-origins.md" },
         { "id": "simply-swords", "title": "Simply Swords", "path": "mod-simply-swords.md" },
         { "id": "create", "title": "Create", "path": "mod-create.md" }
       ]

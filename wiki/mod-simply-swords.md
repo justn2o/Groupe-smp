@@ -91,12 +91,56 @@ activable au clic droit).
 
 ### Comment les obtenir
 
-- **Butin de coffres** — de nombreux coffres (y compris dans des structures
-  d'autres mods) ont une chance de faire apparaître une arme Unique. La
-  chance de base est très faible (0,05 %), mais un système de "pity"
-  personnel augmente les chances après 25 échecs consécutifs et garantit
-  une arme Unique au 75ᵉ échec. Le Wither et le Dragon de l'Ender ont des
-  chances dédiées bien plus élevées (5 % et 50 %).
+> **Réglages spécifiques au Groupe SMP.** Par défaut, les armes Uniques sont
+> quasi introuvables : 0,05 % par coffre, soit 1 sur 2000, avec une garantie
+> seulement au bout de 75 régions explorées. Sur notre serveur, ces valeurs
+> ont été revues pour que l'exploration et les boss soient réellement
+> récompensés. Les chiffres ci-dessous sont les nôtres, pas ceux du mod
+> d'origine.
+
+- **Tuer un boss** — un boss laisse tomber une arme Unique **au hasard, avec
+  100 % de chances**. C'est la voie la plus directe.
+
+  | Boss | Chance |
+  |---|---|
+  | Dragon de l'Ender | 100 % |
+  | Wither | 100 % |
+  | Warden | 100 % |
+  | Gardien ancien (Elder Guardian) | 100 % |
+
+- **Fouiller les structures** — chaque coffre a désormais **2 %** de base
+  (au lieu de 0,05 %), et les grandes structures montent beaucoup plus haut :
+
+  | Structure | Chance par coffre |
+  |---|---|
+  | Cité de l'End (trésor) | 40 % |
+  | Cité ancienne · Manoir · Bastion (trésor) | 35 % |
+  | Chambres d'épreuve (coffre ominous) | 35 % |
+  | Bibliothèque de forteresse · Chambres d'épreuve (récompense) | 25 % |
+  | Forteresse du Nether | 18 % |
+  | Pyramide · Temple de la jungle · Avant-poste · Bastion (autre) | 15 % |
+  | Épave (trésor) · Trésor enfoui | 12 % |
+  | Donjon · Mine abandonnée · Ruines sous-marines | 10 % |
+  | Igloo · Chambres d'épreuve (couloir, réserve) | 8 % |
+
+  Les structures ajoutées par **Moog's Voyager Structures** sont aussi
+  couvertes : cathédrales et coffres rares à 30 %, tours océan/rouge et
+  cristal à 25 %, maisons rares à 20 %, le reste à 15 %.
+
+  Les **coffres de village sont volontairement exclus** : ils sont trop
+  faciles à trouver, et les inclure aurait vidé l'exploration de son intérêt.
+
+- **La garantie ("pity")** — un compteur personnel suit les régions de
+  2×2 chunks fouillées sans trouver d'Unique. À partir de la **6ᵉ** région
+  bredouille, la chance grimpe de 1 point de pourcentage par région, et une
+  Unique est **garantie à la 20ᵉ**. Personne ne peut donc rester
+  indéfiniment les mains vides.
+
+  *Pour référence, le mod livre ces réglages à 25 / 0,2 / 75.*
+
+- **Important** : ces taux ne s'appliquent qu'aux **coffres pas encore
+  générés**. Les structures déjà visitées gardent le butin qu'elles avaient
+  au moment de leur découverte — il faut explorer du terrain neuf.
 - **Reliques Contenues (Contained Remnants)** — objet spécial qui, utilisé
   sur le bon bloc "thématique", produit une arme Unique précise et
   déterministe (par exemple un bloc de fer pour Mjolnir, ou du feu de l'âme
