@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-09-02-heart-of-life",
+    "title": "Nouveau mod : Heart of Life",
+    "date": "2026-09-02",
+    "tag": "maj-mods",
+    "manifest_version": 6,
+    "body_markdown": "Un mod maison : le **Cœur de Vie**, une recette très coûteuse (Heavy Core, Totem of Undying, blocs de diamant, pomme dorée enchantée...) qui donne +1 cœur de vie max une fois consommé, jusqu'à 5 cœurs bonus. Ces cœurs se perdent un par un, mais uniquement si tu es tué par un autre joueur — les autres morts (chute, mobs, lave...) ne les touchent pas."
+  },
+  {
     "id": "2026-09-01-fix-lancement",
     "title": "Correctif : le jeu ne se lançait pas",
     "date": "2026-09-01",
