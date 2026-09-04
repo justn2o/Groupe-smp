@@ -7,7 +7,21 @@
   "cheat_detection": {
     "mode": "block",
     "clients": [
-      "meteor-client"
+      "freecam",
+      "autoclicker",
+      "advanced-autoclicker",
+      "fastplace",
+      "cheatutils",
+      "my-hack-client",
+      "wurst-on-neoforge",
+      "neoforge-wurst",
+      "killaura-experimental",
+      "meteor-client",
+      "wurst-client-fabric",
+      "impact-fabric",
+      "liquidbounce-fabric",
+      "rise-fabric",
+      "inertia-fabric"
     ]
   }
 }

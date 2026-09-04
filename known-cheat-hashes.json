@@ -1,6 +1,82 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-04",
   "clients": [
+    {
+      "id": "freecam",
+      "display_name": "Freecam",
+      "filename_patterns": ["^freecam-.*\\.jar$"],
+      "sha256_hashes": [
+        "09b865a3987a0f1c87bcc9430550ccc4107729f29bff53a1cd5ab1e9c3d82376"
+      ],
+      "mod_id_markers": ["freecam"],
+      "mixin_patterns": ["freecam-common.mixins.json", "freecam-neoforge.mixins.json"]
+    },
+    {
+      "id": "autoclicker",
+      "display_name": "Auto Clicker",
+      "filename_patterns": ["^autoclicker-.*\\.jar$"],
+      "sha256_hashes": [
+        "72f1c85fa2f8611d0b29d78a11afac20750e24447ccd3416d7dea339100b9501"
+      ],
+      "mod_id_markers": ["autoclicker"],
+      "mixin_patterns": ["autoclicker.mixins.json"]
+    },
+    {
+      "id": "advanced-autoclicker",
+      "display_name": "Advanced Autoclicker",
+      "filename_patterns": ["^advanced.?autoclicker.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": [],
+      "mixin_patterns": []
+    },
+    {
+      "id": "fastplace",
+      "display_name": "FastPlace",
+      "filename_patterns": ["^fast.?place.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": [],
+      "mixin_patterns": []
+    },
+    {
+      "id": "cheatutils",
+      "display_name": "CheatUtils",
+      "filename_patterns": ["^cheatutils-.*\\.jar$", "^zergatul\\.cheatutils-.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": ["cheatutils"],
+      "mixin_patterns": ["cheatutils.iris.mixins.json", "cheatutils.sodium.mixins.json"]
+    },
+    {
+      "id": "my-hack-client",
+      "display_name": "My Hack Client",
+      "filename_patterns": ["^hack_client_mod-.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": ["hack_client_mod"],
+      "mixin_patterns": []
+    },
+    {
+      "id": "wurst-on-neoforge",
+      "display_name": "A Hack Client on NeoForge (Wurst-based)",
+      "filename_patterns": ["^wurst.?client.?on.?neoforge.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": ["wurst_client_on_neoforge"],
+      "mixin_patterns": ["wurst_client_on_neoforge.mixins.json"]
+    },
+    {
+      "id": "neoforge-wurst",
+      "display_name": "Neoforge Wurst",
+      "filename_patterns": ["^wurst.*neoforge.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": ["sloth1"],
+      "mixin_patterns": ["polarbear.mixins.json"]
+    },
+    {
+      "id": "killaura-experimental",
+      "display_name": "Killaura - Experimental",
+      "filename_patterns": ["^killaura-\\d+\\.\\d+\\.\\d+\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": [],
+      "mixin_patterns": []
+    },
     {
       "id": "meteor-client",
       "display_name": "Meteor Client",
@@ -8,6 +84,46 @@
       "sha256_hashes": [],
       "mod_id_markers": ["meteor-client"],
       "mixin_patterns": ["meteor-client.mixins.json"]
+    },
+    {
+      "id": "wurst-client-fabric",
+      "display_name": "Wurst Client (Fabric)",
+      "filename_patterns": ["^wurst-mc.*\\.jar$", "^WurstClient.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": ["wurst"],
+      "mixin_patterns": ["wurst.mixins.json"]
+    },
+    {
+      "id": "impact-fabric",
+      "display_name": "Impact Client (Fabric)",
+      "filename_patterns": ["^Impact.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": [],
+      "mixin_patterns": []
+    },
+    {
+      "id": "liquidbounce-fabric",
+      "display_name": "LiquidBounce (Fabric)",
+      "filename_patterns": ["^liquidbounce.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": [],
+      "mixin_patterns": []
+    },
+    {
+      "id": "rise-fabric",
+      "display_name": "Rise Client (Fabric)",
+      "filename_patterns": ["^rise.?client.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": [],
+      "mixin_patterns": []
+    },
+    {
+      "id": "inertia-fabric",
+      "display_name": "Inertia Client (Fabric)",
+      "filename_patterns": ["^inertia.*\\.jar$"],
+      "sha256_hashes": [],
+      "mod_id_markers": [],
+      "mixin_patterns": []
     }
   ]
 }
