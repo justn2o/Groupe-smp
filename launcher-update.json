@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Mise a jour automatique, dossier du jeu deplacable, skin depuis un fichier, protection PvP.",
-  "pub_date": "2026-09-03T18:53:21Z",
+  "version": "0.3.0",
+  "notes": "Nouvelle interface : fond Nether, skin du joueur en 3D sur l'accueil, changement de skin par pseudo, pages sans cadres.",
+  "pub_date": "2026-09-04T16:21:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM24wRDh1MWFjWnhyWGp0WkE2YXprbldMNUJiazczMnlWSlNPbDRyL0tyME1PYXUxQllKMVhucktjKy9UUlcyeVlvejh6OGhWOG9naS9JM0NQcEkrRGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDYxNTg0CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjIuMF94NjQtc2V0dXAuZXhlCkJnK2d4c1lvQXY1bnJqNkExUXZqOVhhWTlzY3JZa1pDN1h2bURsYzF1b3dvM0Y1U3RacUFuVTFHbWtFWHAybVdQc0dWZjJZUXF0VndheG9RN21TZ0FBPT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM2xERHg5c05ET0FGNUNDZHNET0hUL1dPMXhSUHJnNTQySVFwVStvbmZmbTYyZUdqZnZlUzNEcndmNXhHM001MmlVcXJ0MUprSGY5ZEJTd1MzT00xOUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTM4ODY1CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuMF94NjQtc2V0dXAuZXhlCkhPRTY3TVloaktGMVdmZUZsNE9FWWR6ejl5MUZOcEdpNmJ6R0YyTEZodnhmemdIbi9jR09mMGIrT2QreFEyUFprWE5SR3E4cVlvUDU3RFc3U1FhY0F3PT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.0_x64-setup.exe"
     }
   }
 }
