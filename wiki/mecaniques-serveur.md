@@ -8,6 +8,7 @@ réglées spécialement pour nous.
 
 - [Se connecter : mot de passe obligatoire](#se-connecter--mot-de-passe-obligatoire)
 - [Se protéger du PvP](#se-protéger-du-pvp)
+- [Poser une prime](#poser-une-prime)
 - [Le Cœur de Vie](#le-cœur-de-vie)
 - [Un seul Totem d'immortalité](#un-seul-totem-dimmortalité)
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
@@ -73,6 +74,49 @@ juste le temps de porter un coup. Le compte à rebours de 15 minutes utilise
 l'heure réelle : un redémarrage du serveur ne le remet pas à zéro.
 
 Le réglage survit à la mort et à la déconnexion.
+
+## Poser une prime
+
+Tu peux mettre la tête de quelqu'un à prix — **avec des objets, jamais de
+l'argent**. Le serveur n'a pas d'économie, et une prime qui ne coûte rien de
+réel ne vaudrait rien.
+
+```
+/bounty set <joueur>       → ouvre un coffre : dépose les objets qui forment la prime
+/bounty                    → liste toutes les primes en cours
+/bounty voir <joueur>      → détaille ce qu'il y a sur une tête
+/bounty annuler <joueur>   → récupère ta contribution sur ce joueur
+```
+
+### Comment ça marche
+
+`/bounty set` ouvre un coffre de 27 cases. Tu y déposes ce que tu veux offrir,
+exactement comme dans un coffre normal, et tu le refermes. **Les objets quittent
+ton inventaire à ce moment-là** — c'est le prix de la prime. Tout le serveur est
+prévenu, la cible comprise.
+
+Quand cette personne est ensuite **tuée par un autre joueur**, le tueur reçoit
+d'un coup tout ce qui avait été mis sur sa tête, par tout le monde. Ce qui ne
+rentre pas dans son inventaire tombe à ses pieds.
+
+### Les règles
+
+- Une mort par lave, chute ou mob ne donne la prime à personne : elle reste
+  jusqu'à ce que quelqu'un la mérite.
+- Plusieurs joueurs peuvent poser une prime sur la même tête. Chacun ne peut
+  annuler que la sienne.
+- Impossible de se mettre une prime à soi-même.
+- La cible doit s'être connectée au serveur au moins une fois — elle peut être
+  hors ligne quand tu poses la prime.
+- Les primes sont enregistrées avec le monde : un redémarrage ne les efface pas.
+
+### Avec la protection PvP
+
+Un joueur protégé par `/pvp` ne peut pas être tué par un joueur : la prime sur
+sa tête reste en attente tant qu'il ne la désactive pas. Comme le changement
+demande qu'aucun joueur ne soit à moins de 20 blocs, puis 15 minutes de délai
+avant de pouvoir revenir en arrière, désactiver sa protection avec une prime
+sur la tête est un vrai pari.
 
 ## Le Cœur de Vie
 
