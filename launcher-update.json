@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Nouvelle interface : fond Nether, skin du joueur en 3D sur l'accueil, changement de skin par pseudo, pages sans cadres.",
-  "pub_date": "2026-09-04T16:21:23Z",
+  "version": "0.3.1",
+  "notes": "Correctif : le lanceur portable ne dependait plus de WebView2Loader.dll ; auto-update inchange.",
+  "pub_date": "2026-09-04T16:48:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM2xERHg5c05ET0FGNUNDZHNET0hUL1dPMXhSUHJnNTQySVFwVStvbmZmbTYyZUdqZnZlUzNEcndmNXhHM001MmlVcXJ0MUprSGY5ZEJTd1MzT00xOUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTM4ODY1CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuMF94NjQtc2V0dXAuZXhlCkhPRTY3TVloaktGMVdmZUZsNE9FWWR6ejl5MUZOcEdpNmJ6R0YyTEZodnhmemdIbi9jR09mMGIrT2QreFEyUFprWE5SR3E4cVlvUDU3RFc3U1FhY0F3PT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM3NxU0d3Z3h1YmdOVm1yUzVQeDFaTExVeDlzOTlrdmF2SzZ2bklFNkpuSzNNcm9JMGUwbWs2Nm5hVXU5WG0zeVcrY0VuL2lkVzh6YVVvclZCZVErTGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQwNTA0CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuMV94NjQtc2V0dXAuZXhlCjJpNmc3YTZ2NDlneFFIQUU5V00xRVJNeGhCUmhSR0tMUEZwWFgrSytiRlF1b3N4WmlXUWJCSkVaRDZMQ05WV0pnbURrSXZOeGlRekRWL0tXajdudkJRPT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.1_x64-setup.exe"
     }
   }
 }
