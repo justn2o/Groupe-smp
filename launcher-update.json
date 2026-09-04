@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Le skin passe desormais par le mod Heart of Life (plus par RCON/smp-server) : applique-toi un skin dans l'onglet Skin, il arrive au prochain join ou via /skinsync.",
-  "pub_date": "2026-09-04T17:24:57Z",
+  "version": "0.3.3",
+  "notes": "Amis et Suggestions ne dependent plus de smp-server : Amis devient une liste locale (present via le ping du serveur), Suggestions se fait en jeu avec /suggest.",
+  "pub_date": "2026-09-04T17:39:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM3Mvc2xoQTRoOVpnbUdWU01BZXRpWDFadmhnOXE3c2RoNU9DY01rUDErdEh6RjR3ZVVTdzE1V1VJOGl6L1ZaUDQ3RGJ2cUpjMkZqYWJhejlxbDBvdEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQyNjY1CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuMl94NjQtc2V0dXAuZXhlClArTkN3M0RyNlBhZnNsYUNLZ1Q0OWRsWlo4THZqd1hmTXRLWFJEdlRFNHdzNTUxdSttYmo0cVBYalRCR2Z0R1MwMXZwandaYjBxbGZ0UmR5ZGVzRkJRPT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM3JqL1NWT2NzaGNpYWMyUEJaQmZaRXFVT3F2cEwwQ1d3YlRXTXFZOHdWdzZKR0U1NENwaHJqRGRiL1oyS2FOcWZXWklQSjlxUHBNOTBXdzIvdUR6V2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQzNTc3CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuM194NjQtc2V0dXAuZXhlCkNtU2gvcTU4TXRrN3RqbVY2QjlXUnlzVUVpaUVwTkVOUVo0bFNQSFdOQVlzVVBVaFNnRTB5NXZDZjBuSkYvcGoyRml2S0ZRUndJQWZpcDErRWUvMEJnPT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.3_x64-setup.exe"
     }
   }
 }
