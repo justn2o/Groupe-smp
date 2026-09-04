@@ -213,10 +213,10 @@
     {
       "custom_id": "heartoflife",
       "display_name": "Heart of Life",
-      "download_url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/custom-mods/heartoflife-1.3.0.jar",
-      "version": "1.3.0",
-      "sha1": "98bfe1ff1915d2ca482390bdfd523fb638def8c9",
-      "file_name": "heartoflife-1.3.0.jar",
+      "download_url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/custom-mods/heartoflife-1.4.0.jar",
+      "version": "1.4.0",
+      "sha1": "a7eeea646ad25234d42d85358260636a6b0c632b",
+      "file_name": "heartoflife-1.4.0.jar",
       "required": true,
       "category": "gameplay"
     }
