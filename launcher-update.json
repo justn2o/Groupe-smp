@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "Modlist : Villages&Pillages et Naturalist retires, Artifacts ajoute. Suggestions (/suggest) va sur Discord au lieu de GitHub. Correctifs mineurs de textes.",
-  "pub_date": "2026-09-04T18:33:27Z",
+  "version": "0.3.6",
+  "notes": "Detecteur de triche : detection beaucoup plus large (Freecam, Auto Clicker, CheatUtils, plusieurs clients NeoForge dedies, etc.) et surtout : detecte maintenant meme si le mod est renomme (avant, renommer le fichier suffisait a passer inapercu).",
+  "pub_date": "2026-09-04T21:21:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM25nc0I2Sk9VWjN3K01JUzlLZVlBOENSUDB0QXBnMTIrL1hsaUNPb1c2Mm1LYW95c0ljUGh1RXkxR1BYeENlUTFrVUdwQTBnRCtHNHlkMmlXOW5TQUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ2NzQ5CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuNV94NjQtc2V0dXAuZXhlCllidml2THJqRHE1ZDQ4bFh5ZllTbHpPRVJBUGlDYW4wd1lVU1d4V0JwSllqb1NWRTJXOEdOWXJoeHpQZGZ3M2tCSnRuT1kxcUlFNFRMcmZ5Z1hOQ0NBPT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM3QyazVnQnlhMzNKSVFoQ0sycHlQQUFzQm9WaFVJRHd6dWFPaFd2ZDF1UGtZMGIzZFpEc0pFNU15T0FuMWdKZXlDNWVWenMxMFo4RGYySHhrczZWekFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTU2ODU4CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuNl94NjQtc2V0dXAuZXhlCjhsTmFjN0R2QUJTU0d5RENyVE40b2tNWjJ3S21UZDRPYzN0d0VZSWZwTExCT0JGbTI1S2pRMGoxWmxBSHd6TEtVS2NsbnMyalNBMkxnN2ZBSk1NekNnPT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.6_x64-setup.exe"
     }
   }
 }
