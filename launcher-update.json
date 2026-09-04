@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
-  "notes": "Correctif : le lanceur portable ne dependait plus de WebView2Loader.dll ; auto-update inchange.",
-  "pub_date": "2026-09-04T16:48:39Z",
+  "version": "0.3.2",
+  "notes": "Le skin passe desormais par le mod Heart of Life (plus par RCON/smp-server) : applique-toi un skin dans l'onglet Skin, il arrive au prochain join ou via /skinsync.",
+  "pub_date": "2026-09-04T17:24:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM3NxU0d3Z3h1YmdOVm1yUzVQeDFaTExVeDlzOTlrdmF2SzZ2bklFNkpuSzNNcm9JMGUwbWs2Nm5hVXU5WG0zeVcrY0VuL2lkVzh6YVVvclZCZVErTGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQwNTA0CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuMV94NjQtc2V0dXAuZXhlCjJpNmc3YTZ2NDlneFFIQUU5V00xRVJNeGhCUmhSR0tMUEZwWFgrSytiRlF1b3N4WmlXUWJCSkVaRDZMQ05WV0pnbURrSXZOeGlRekRWL0tXajdudkJRPT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM3Mvc2xoQTRoOVpnbUdWU01BZXRpWDFadmhnOXE3c2RoNU9DY01rUDErdEh6RjR3ZVVTdzE1V1VJOGl6L1ZaUDQ3RGJ2cUpjMkZqYWJhejlxbDBvdEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQyNjY1CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuMl94NjQtc2V0dXAuZXhlClArTkN3M0RyNlBhZnNsYUNLZ1Q0OWRsWlo4THZqd1hmTXRLWFJEdlRFNHdzNTUxdSttYmo0cVBYalRCR2Z0R1MwMXZwandaYjBxbGZ0UmR5ZGVzRkJRPT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.2_x64-setup.exe"
     }
   }
 }
