@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "Correctif important : l'installeur (NSIS/MSI) n'embarquait pas toujours WebView2Loader.dll, ce qui pouvait empecher le launcher de redemarrer apres une mise a jour. Corrige a la source (DLL vendee et declaree comme ressource du bundle).",
-  "pub_date": "2026-09-04T17:53:48Z",
+  "version": "0.3.5",
+  "notes": "Modlist : Villages&Pillages et Naturalist retires, Artifacts ajoute. Suggestions (/suggest) va sur Discord au lieu de GitHub. Correctifs mineurs de textes.",
+  "pub_date": "2026-09-04T18:33:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM2dSb2xCUVVibnY3ZCtaNENpYXM2eVFpUmZGRHc1czU0SkpuR0E3S1ZDbEQ3WFlpdW1HNTRPM2VrbkpEdDRVUCtPSVlrY3EyeWNZc3JjeVd1M2J2UWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ0MzcwCWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuNF94NjQtc2V0dXAuZXhlCk0wRzUzb2p2ekVJdXJFMFdQeWZrcHY5UUtYdjNRREs2ZkEveVZHeEo4dFpmZys5KzdhUG9NYTlPTTJDSFhUQlo1bXN4aGdMeXFnY3RiUFdsTElpWUNnPT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM25nc0I2Sk9VWjN3K01JUzlLZVlBOENSUDB0QXBnMTIrL1hsaUNPb1c2Mm1LYW95c0ljUGh1RXkxR1BYeENlUTFrVUdwQTBnRCtHNHlkMmlXOW5TQUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ2NzQ5CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuNV94NjQtc2V0dXAuZXhlCllidml2THJqRHE1ZDQ4bFh5ZllTbHpPRVJBUGlDYW4wd1lVU1d4V0JwSllqb1NWRTJXOEdOWXJoeHpQZGZ3M2tCSnRuT1kxcUlFNFRMcmZ5Z1hOQ0NBPT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.5_x64-setup.exe"
     }
   }
 }
