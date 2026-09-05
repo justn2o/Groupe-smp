@@ -10,6 +10,7 @@ réglées spécialement pour nous.
 - [Se protéger du PvP](#se-protéger-du-pvp)
 - [Poser une prime](#poser-une-prime)
 - [Le Cœur de Vie](#le-cœur-de-vie)
+- [Le Lait Infini](#le-lait-infini)
 - [Un seul Totem d'immortalité](#un-seul-totem-dimmortalité)
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
 
@@ -161,6 +162,34 @@ ne gaspilles donc jamais un Cœur par erreur.
 Toutes les autres morts — chute, lave, creeper, noyade, faim, un mob
 quelconque — **ne coûtent rien**. Tu peux mourir bêtement sans perdre ta
 progression : seul le PvP a un prix.
+
+## Le Lait Infini
+
+Un seau qui ne se vide jamais.
+
+### La recette
+
+Aussi coûteuse que le Cœur de Vie, dans un autre registre : un bloc de
+netherite entouré de seaux de lait.
+
+|  |  |  |
+|---|---|---|
+| Seau de lait | Seau de lait | Seau de lait |
+| Seau de lait | **Bloc de netherite** | Seau de lait |
+| Seau de lait | Seau de lait | Seau de lait |
+
+Soit, au total : 8 seaux de lait et 1 bloc de netherite (9 lingots de
+netherite).
+
+### Comment ça marche
+
+- Il se **boit** exactement comme un seau de lait (même animation, même
+  son, maintiens le clic droit).
+- Contrairement à un vrai seau de lait, **il ne se vide jamais** — il reste
+  dans ton inventaire après chaque utilisation, réutilisable à l'infini.
+- Il ne retire que les **effets néfastes** (poison, Faiblesse, Lenteur,
+  Cécité...). Contrairement au lait normal, il **ne touche pas** aux effets
+  positifs — un buff pris avant (Force, Vitesse, Régénération...) survit.
 
 ## Un seul Totem d'immortalité
 
