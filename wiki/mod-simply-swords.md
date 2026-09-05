@@ -241,7 +241,7 @@ d'Éveil.
 
 - **Type d'arme** : Rapière
 - **Implicite** : 15 à 35 % de chances d'ignorer l'armure
-- **Capacité** : *Étreinte Sauvage* — au toucher, une ronce relie votre
+- **Capacité** : *Étreinte Sauvage* — au toucher, une ronce relie ta
   précédente cible à la nouvelle, blessant les ennemis sur son passage puis
   liant les cibles ensemble : les dégâts infligés à l'une se répercutent
   sur les autres.
@@ -273,7 +273,7 @@ d'Éveil.
 - **Implicite** : 5 à 25 % de chances de gagner de la vitesse d'attaque au
   toucher
 - **Capacité** : *Chompocalypse* — invoque des axolotls au toucher, qui
-  attaquent les ennemis proches ou se perchent sur vos épaules. Clic
+  attaquent les ennemis proches ou se perchent sur tes épaules. Clic
   droit : invoque un axolotl bleu rare.
 
 ### Dawnquiver
@@ -314,8 +314,8 @@ d'Éveil.
 - **Implicite** : 5 à 15 % de chances d'infliger des dégâts doublés
 - **Capacité** : *Déchirure des Ombres* — forme corrompue de Whisperwind.
   Les cibles touchées subissent une Blessure Corrompue qui éclate au coup
-  suivant. Clic droit : devenez un mur mouvant d'énergie sombre traversant
-  les ennemis, vous soignant des dégâts infligés et laissant du Gloam
+  suivant. Clic droit : deviens un mur mouvant d'énergie sombre traversant
+  les ennemis, te soignant des dégâts infligés et laissant du Gloam
   (tentacules ralentissantes) sur son passage.
 
 ### Emberblade
@@ -365,7 +365,7 @@ d'Éveil.
 - **Type d'arme** : Marteau
 - **Implicite** : sape 2 à 6 % de l'armure par coup
 - **Capacité** : *Furie Glaciale* — arme avec Fidélité III innée. Clic
-  droit : lancez l'arme (temps de vol et angle influencent les dégâts) ; à
+  droit : lance l'arme (temps de vol et angle influencent les dégâts) ; à
   l'atterrissage, elle pulse 5 fois en ralentissant et attirant les
   ennemis.
 
@@ -418,7 +418,7 @@ d'Éveil.
 - **Implicite** : 10 à 60 % de chances d'infliger Saignement
 - **Capacité** : *Permafrost* — aura de givre permanente (4 blocs de rayon)
   infligeant des dégâts et ralentissant. Clic droit : des comètes de glace
-  s'abattent autour de vous en dégâts de zone.
+  s'abattent autour de toi en dégâts de zone.
 
 ### Lichblade
 
@@ -540,7 +540,7 @@ d'Éveil.
 - **Type d'arme** : Rapière
 - **Implicite** : 15 à 35 % de chances d'ignorer l'armure
 - **Capacité** : *Danse des Ombres* — chance au toucher de faire apparaître
-  un clone d'ombre qui reproduit votre frappe. Clic droit : téléportation
+  un clone d'ombre qui reproduit ta frappe. Clic droit : téléportation
   rapide entre plusieurs ennemis avec protection temporaire.
 
 ### Soulkeeper
@@ -572,15 +572,15 @@ d'Éveil.
 - **Implicite** : 5 à 15 % de chances d'exécuter les ennemis à faible vie
 - **Capacité** : *Déchirure d'Âme* — chance au toucher d'infliger un
   affaiblissement cumulable. Clic droit : consomme les charges des ennemis
-  proches, les blessant et vous soignant en proportion.
+  proches, les blessant et te soignant en proportion.
 
 ### Soulstalker
 
 - **Type d'arme** : Faux
 - **Implicite** : 5 à 15 % de chances d'exécuter les ennemis à faible vie
 - **Capacité** : *Pas Stygien* — forme corrompue de Soulrender. Des
-  tentacules abyssales émergent de votre dos et transpercent les ennemis.
-  Clic droit : parcourez le terrain sur six membres abyssaux, laissant du
+  tentacules abyssales émergent de ton dos et transpercent les ennemis.
+  Clic droit : parcours le terrain sur six membres abyssaux, laissant du
   Gloam à chaque pas et coup.
 
 ### Soulstealer
@@ -621,7 +621,7 @@ d'Éveil.
 - **Type d'arme** : Twinblade
 - **Implicite** : 5 à 25 % de chances de gagner de la vitesse d'attaque au
   toucher
-- **Capacité** : *Éclat Orageux* — clic droit : devenez foudre et foncez en
+- **Capacité** : *Éclat Orageux* — clic droit : deviens foudre et fonce en
   traversant les ennemis avant un coup de tonnerre, avec bonus persistants
   de vitesse et de Hâte.
 
@@ -630,7 +630,7 @@ d'Éveil.
 - **Type d'arme** : Glaive
 - **Implicite** : 10 à 60 % de chances d'infliger Saignement
 - **Capacité** : *Paratonnerre* — clic droit : plante un glaive spectral
-  relié à vous ; chaque coup de mêlée envoie une décharge qui blesse et
+  relié à toi ; chaque coup de mêlée envoie une décharge qui blesse et
   attire les ennemis (portée et dégâts augmentent avec les coups, jusqu'à
   +80 %). Éveillée au niveau 4+, elle peut être reforgée pendant un orage en
   **Stormscale Lié aux Ions**, qui génère des Cubes Ioniques annulant les
@@ -725,7 +725,7 @@ d'Éveil.
 - **Implicite** : 5 à 15 % de chances de dévier les dégâts entrants
 - **Capacité** : *Tissage de Cire* — emprisonne un ennemi dans de la cire
   (immobilisé, cible prioritaire des ennemis proches). Passif anti-mort :
-  vous enveloppe de cire régénératrice qui soigne entièrement et octroie
+  t'enveloppe de cire régénératrice qui soigne entièrement et octroie
   une résistance (une fois toutes les 60 secondes).
 
 ### Whisperwind
@@ -763,7 +763,7 @@ d'Éveil.
 - **Type d'arme** : Sabre (Cutlass)
 - **Implicite** : 1 à 3 % de chances de piller du butin au toucher
 - **Capacité** : *Averse Spectrale* — forme corrompue de Wraithfang. Des
-  sabres spectraux flottent au-dessus de vous et cherchent des cibles à
+  sabres spectraux flottent au-dessus de toi et cherchent des cibles à
   chaque coup. Clic droit : pluie de sabres spectraux sur la zone visée,
   laissant du Gloam au sol.
 
