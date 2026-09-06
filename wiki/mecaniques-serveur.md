@@ -11,6 +11,7 @@ réglées spécialement pour nous.
 - [Poser une prime](#poser-une-prime)
 - [Le Cœur de Vie](#le-cœur-de-vie)
 - [Le Lait Infini](#le-lait-infini)
+- [Solidité V et Protection V](#solidité-v-et-protection-v)
 - [Un seul Totem d'immortalité](#un-seul-totem-dimmortalité)
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
 
@@ -190,6 +191,25 @@ netherite).
 - Il ne retire que les **effets néfastes** (poison, Faiblesse, Lenteur,
   Cécité...). Contrairement au lait normal, il **ne touche pas** aux effets
   positifs — un buff pris avant (Force, Vitesse, Régénération...) survit.
+
+## Solidité V et Protection V
+
+Sur ce serveur, **Solidité** et **Protection** montent un niveau plus haut
+que dans le jeu de base : **niveau V** au lieu de IV pour Protection et III
+pour Solidité.
+
+### Comment les obtenir
+
+- **Table d'enchantement** : comme n'importe quel autre enchantement, en
+  tentant ta chance avec assez de niveaux et de lapis-lazuli.
+- **Enclume** : combine deux livres (ou objets) au niveau IV identique pour
+  monter à V, exactement comme la combinaison classique III+III → IV.
+- **Villageois bibliothécaire** : ses offres de livre enchanté peuvent
+  directement proposer du niveau V.
+
+Aucune autre règle ne change : coût en XP, poids dans la table
+d'enchantement, objets compatibles (armure pour Protection, tout objet qui
+s'use pour Solidité) restent ceux du jeu de base, juste étendus jusqu'à V.
 
 ## Un seul Totem d'immortalité
 
