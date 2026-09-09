@@ -2,7 +2,7 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.249",
-  "manifest_version": 15,
+  "manifest_version": 16,
   "mods": [
     {
       "modrinth_id": "LOpKHB2A",
@@ -61,6 +61,24 @@
     {
       "modrinth_id": "uXXizFIs",
       "modrinth_version_id": "x7kQWVju",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "modrinth_id": "nmDcB62a",
+      "modrinth_version_id": "5HLHxQ2F",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "modrinth_id": "gvQqBUqZ",
+      "modrinth_version_id": "DDUrRVCA",
+      "required": true,
+      "category": "performance"
+    },
+    {
+      "modrinth_id": "4WWQxlQP",
+      "modrinth_version_id": "6N9hXiRa",
       "required": true,
       "category": "performance"
     },
