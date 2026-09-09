@@ -21,7 +21,22 @@
       "pages": [
         { "id": "origins", "title": "Origines & Classes", "path": "mod-origins.md" },
         { "id": "simply-swords", "title": "Simply Swords", "path": "mod-simply-swords.md" },
-        { "id": "create", "title": "Create", "path": "mod-create.md" }
+        { "id": "create", "title": "Create", "path": "mod-create.md" },
+        { "id": "artifacts", "title": "Artifacts", "path": "mod-artifacts.md" },
+        { "id": "waystones", "title": "Waystones", "path": "mod-waystones.md" },
+        { "id": "farmers-delight", "title": "Farmer's Delight", "path": "mod-farmers-delight.md" },
+        { "id": "securitycraft", "title": "SecurityCraft", "path": "mod-securitycraft.md" },
+        { "id": "travelers-backpack", "title": "Traveler's Backpack", "path": "mod-travelers-backpack.md" },
+        { "id": "carry-on", "title": "Carry On", "path": "mod-carry-on.md" },
+        { "id": "corpse", "title": "Corpse", "path": "mod-corpse.md" },
+        { "id": "immersive-aircraft", "title": "Immersive Aircraft", "path": "mod-immersive-aircraft.md" },
+        { "id": "immersive-armors", "title": "Immersive Armors", "path": "mod-immersive-armors.md" },
+        { "id": "just-hammers", "title": "Just Hammers", "path": "mod-just-hammers.md" },
+        { "id": "effortless-building", "title": "Effortless Building", "path": "mod-effortless-building.md" },
+        { "id": "exposure", "title": "Exposure", "path": "mod-exposure.md" },
+        { "id": "meubles", "title": "Meubles (Macaw's & Another)", "path": "mod-meubles.md" },
+        { "id": "voyager-structures", "title": "Moog's Voyager Structures", "path": "mod-voyager-structures.md" },
+        { "id": "pam-harvestcraft", "title": "Pam's HarvestCraft 2", "path": "mod-pam-harvestcraft.md" }
       ]
     }
   ]
