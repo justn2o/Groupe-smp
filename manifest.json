@@ -201,6 +201,12 @@
       "modrinth_version_id": "lMfuK0o7",
       "required": true,
       "category": "gameplay"
+    },
+    {
+      "modrinth_id": "vvuO3ImH",
+      "modrinth_version_id": "yohfFbgD",
+      "required": true,
+      "category": "librairie"
     }
   ],
   "custom_mods": [
