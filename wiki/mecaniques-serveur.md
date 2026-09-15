@@ -12,6 +12,9 @@ réglées spécialement pour nous.
 - [Le Cœur de Vie](#le-cœur-de-vie)
 - [Le Lait Infini](#le-lait-infini)
 - [Solidité V et Protection V](#solidité-v-et-protection-v)
+- [Pomme dorée moins chère](#pomme-dorée-moins-chère)
+- [Trade infini](#trade-infini)
+- [Dupliquer un livre enchanté](#dupliquer-un-livre-enchanté)
 - [Un seul Totem d'immortalité](#un-seul-totem-dimmortalité)
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
 
@@ -210,6 +213,28 @@ pour Solidité.
 Aucune autre règle ne change : coût en XP, poids dans la table
 d'enchantement, objets compatibles (armure pour Protection, tout objet qui
 s'use pour Solidité) restent ceux du jeu de base, juste étendus jusqu'à V.
+
+## Pomme dorée moins chère
+
+La recette de la **pomme dorée** (celle qui donne Résistance + Absorption,
+pas la pomme dorée enchantée) est allégée : **4 lingots d'or** et une pomme,
+au lieu des 8 lingots habituels. N'importe quel agencement dans la grille
+de craft fonctionne.
+
+## Trade infini
+
+Un joueur peut se voir accorder le **trade infini** avec les villageois par
+un admin : les offres ne se bloquent plus après utilisation, et les prix
+qui montent avec la demande reviennent à zéro à chaque échange.
+
+C'est un privilège accordé au cas par cas (`/inftrade enable <joueur>`),
+pas une règle générale du serveur.
+
+## Dupliquer un livre enchanté
+
+Combine un livre enchanté avec un livre vierge sur une **enclume** pour en
+obtenir une copie. Le coût en XP dépend des enchantements copiés. Maintenir
+Maj en validant duplique en masse (coûte de l'XP à chaque copie).
 
 ## Un seul Totem d'immortalité
 
