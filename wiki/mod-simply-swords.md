@@ -108,24 +108,12 @@ activable au clic droit).
   | Warden | 100 % |
   | Gardien ancien (Elder Guardian) | 100 % |
 
-- **Fouiller les structures** — chaque coffre a désormais **2 %** de base
-  (au lieu de 0,05 %), et les grandes structures montent beaucoup plus haut :
-
-  | Structure | Chance par coffre |
-  |---|---|
-  | Cité de l'End (trésor) | 40 % |
-  | Cité ancienne · Manoir · Bastion (trésor) | 35 % |
-  | Chambres d'épreuve (coffre ominous) | 35 % |
-  | Bibliothèque de forteresse · Chambres d'épreuve (récompense) | 25 % |
-  | Forteresse du Nether | 18 % |
-  | Pyramide · Temple de la jungle · Avant-poste · Bastion (autre) | 15 % |
-  | Épave (trésor) · Trésor enfoui | 12 % |
-  | Donjon · Mine abandonnée · Ruines sous-marines | 10 % |
-  | Igloo · Chambres d'épreuve (couloir, réserve) | 8 % |
-
-  Les structures ajoutées par **Moog's Voyager Structures** sont aussi
-  couvertes : cathédrales et coffres rares à 30 %, tours océan/rouge et
-  cristal à 25 %, maisons rares à 20 %, le reste à 15 %.
+- **Fouiller les structures** — chaque coffre a **3 %** de chances (au lieu
+  de 0,05 % dans le mod d'origine), le même taux pour toutes les
+  structures — grandes ou petites, Overworld ou Nether, vanilla ou ajoutées
+  par **Moog's Voyager Structures**. Pas de palier plus élevé pour les
+  gros trésors : ça reste rare partout, la garantie ci-dessous est le
+  vrai filet de sécurité.
 
   Les **coffres de village sont volontairement exclus** : ils sont trop
   faciles à trouver, et les inclure aurait vidé l'exploration de son intérêt.

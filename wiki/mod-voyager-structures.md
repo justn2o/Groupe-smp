@@ -13,15 +13,6 @@ des villageois à l'intérieur.
 ## À savoir sur notre serveur
 
 Ces structures comptent aussi pour les taux de butin **Armes Uniques** de
-Simply Swords (voir la page Simply Swords, dans la section Mods) — et avec
-des taux nettement plus généreux que les structures vanilla :
-
-| Structure MVS | Chance par coffre |
-|---|---|
-| Cathédrales, coffres rares | 30 % |
-| Tours océan / rouge / cristal | 25 % |
-| Maisons rares | 20 % |
-| Le reste des structures MVS | 15 % |
-
-Ça vaut le coup d'explorer les structures de ce mod en particulier si tu
-cherches une Arme Unique.
+Simply Swords (voir la page Simply Swords, dans la section Mods) — un
+coffre MVS a **3 %** de chances de contenir une Arme Unique, le même
+taux que n'importe quelle autre structure du serveur.
