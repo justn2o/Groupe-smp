@@ -1,11 +1,11 @@
 {
-  "version": "0.3.6",
-  "notes": "Detecteur de triche : detection beaucoup plus large (Freecam, Auto Clicker, CheatUtils, plusieurs clients NeoForge dedies, etc.) et surtout : detecte maintenant meme si le mod est renomme (avant, renommer le fichier suffisait a passer inapercu).",
-  "pub_date": "2026-09-04T21:21:13Z",
+  "version": "0.3.7",
+  "notes": "Nouveau systeme de logs de lancement : un fichier different par tentative (dossier launch-logs, accessible via le bouton Journaux de lancement sur l'accueil), qui continue a surveiller le jeu jusqu'a 1 minute apres le lancement. Utile si le launcher dit que ca a marche mais qu'aucune fenetre ne s'ouvre.",
+  "pub_date": "2026-09-16T12:15:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTFhjS3EybDQvM3QyazVnQnlhMzNKSVFoQ0sycHlQQUFzQm9WaFVJRHd6dWFPaFd2ZDF1UGtZMGIzZFpEc0pFNU15T0FuMWdKZXlDNWVWenMxMFo4RGYySHhrczZWekFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTU2ODU4CWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuNl94NjQtc2V0dXAuZXhlCjhsTmFjN0R2QUJTU0d5RENyVE40b2tNWjJ3S21UZDRPYzN0d0VZSWZwTExCT0JGbTI1S2pRMGoxWmxBSHd6TEtVS2NsbnMyalNBMkxnN2ZBSk1NekNnPT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK1k3WkxCZ0FoNmx6empHZ1NBRFo4YWhtcjB6a1hmM21NQTNBRWJFSjhpeGY3Ump4b0FOUHkzcGhJTDllSW9OUnNzMlduMmhIUzlIbTAzUnQ1ZXZFUUZrdmhDbEZKMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTYwOTIxCWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuN194NjQtc2V0dXAuZXhlClRjWGVtcFBWa0lsb0szYm5vNnJhU3lGeUZURVZ6VGZrZGxoMlNFQ1ZBSnYwdS9MZ29uQmo5eVg5b0VUQ0hCaTJqK3c4SEJOZFVuM1k1Z2RYdVdOMkR3PT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.7_x64-setup.exe"
     }
   }
 }
