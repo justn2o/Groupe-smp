@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7",
-  "notes": "Nouveau systeme de logs de lancement : un fichier different par tentative (dossier launch-logs, accessible via le bouton Journaux de lancement sur l'accueil), qui continue a surveiller le jeu jusqu'a 1 minute apres le lancement. Utile si le launcher dit que ca a marche mais qu'aucune fenetre ne s'ouvre.",
-  "pub_date": "2026-09-16T12:15:54Z",
+  "version": "0.3.8",
+  "notes": "Correctif important : desactivation par defaut de l'ecran de chargement anime de NeoForge (earlyWindowControl), qui plantait au demarrage sur certains pilotes graphiques sans jamais afficher de fenetre - exactement le souci que les logs de la 0.3.7 ont permis d'identifier. Le launcher corrige automatiquement config/fml.toml avant chaque lancement.",
+  "pub_date": "2026-09-17T15:21:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK1k3WkxCZ0FoNmx6empHZ1NBRFo4YWhtcjB6a1hmM21NQTNBRWJFSjhpeGY3Ump4b0FOUHkzcGhJTDllSW9OUnNzMlduMmhIUzlIbTAzUnQ1ZXZFUUZrdmhDbEZKMGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTYwOTIxCWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuN194NjQtc2V0dXAuZXhlClRjWGVtcFBWa0lsb0szYm5vNnJhU3lGeUZURVZ6VGZrZGxoMlNFQ1ZBSnYwdS9MZ29uQmo5eVg5b0VUQ0hCaTJqK3c4SEJOZFVuM1k1Z2RYdVdOMkR3PT0K",
-      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK1k3WkxCZ0FoNmdBMytqVThUNFVKNnBSMzAvMGdyWUsyMG1mcCs5WTN3YjFoTk00WjFtc3FYSTR1THVoVlcrcEZQQVRxbjB4Y2xQaCsrQ3lrbHBMLy9yMS9wUnZRN1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjU4NDQyCWZpbGU6TGUgR3JvdXBlIFNNUF8wLjMuOF94NjQtc2V0dXAuZXhlCk00RHRrWnJtRUtub0VGYW1PZ0xVYmFQMmhvUk5LcjFFSVJ6NnNJdTFnVTBmenAyNnlrR2g3UE0ySFBHYldrcmhkV1FwaG9GSWR4L2JHQTBrbVVIUUFnPT0K",
+      "url": "https://raw.githubusercontent.com/justn2o/Groupe-smp/main/launcher/Le%20Groupe%20SMP_0.3.8_x64-setup.exe"
     }
   }
 }
