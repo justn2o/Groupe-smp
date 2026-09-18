@@ -1,15 +1,5 @@
-# Bienvenue sur le Groupe SMP
+# Bienvenue Sur le groupe Smp !
+Si tu lis ça c'est que tu es assez intelligent pour comprendre que lire le wiki te donnera des avantages !
+Tu devrais vraiment lire la catégorie mécaniques-serveur au pasage. C'est tout ce qu'on à dev coté perso
 
-Ce wiki est géré depuis ce dépôt — modifie ces fichiers `.md` sur GitHub,
-et le contenu apparaît dans l'onglet Wiki du launcher (au prochain
-lancement, ou en cliquant sur le champ de recherche puis en rechargeant).
-
-## Rejoindre le serveur
-
-Le bouton **Jouer** sur l'écran d'accueil connecte automatiquement au bon
-serveur avec la bonne version de mods — pas besoin de l'ajouter à la main.
-
-## Signaler un problème
-
-Utilise l'onglet **Suggestions** du launcher pour proposer un mod, signaler
-un bug, ou faire une remarque sur le gameplay.
+Amuse toi bien haha
