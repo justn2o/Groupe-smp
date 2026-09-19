@@ -20,6 +20,7 @@ craftable — il faut la trouver.
   - [L'Éveil (Awakening)](#l%C3%A9veil-awakening)
   - [Les emplacements de gemmes](#les-emplacements-de-gemmes)
 - [Les pouvoirs Runiques](#les-pouvoirs-runiques)
+- [Effets visuels allégés](#effets-visuels-all%C3%A9g%C3%A9s)
 - [Catalogue des armes Uniques](#catalogue-des-armes-uniques)
 
 ## Les familles d'armes
@@ -193,6 +194,25 @@ Les capacités actives (que ce soit sur une arme Unique ou via une gemme)
 s'utilisent avec les touches dédiées "Use Mainhand/Offhand Weapon Ability"
 (à configurer dans les contrôles), ce qui permet de les déclencher même en
 combattant à deux armes à la fois.
+
+## Effets visuels allégés
+
+> **Réglage spécifique au Groupe SMP.** Les effets visuels continus des
+> capacités (auras, champs au sol, éclairs...) faisaient sérieusement lag
+> certains joueurs, particulièrement avec plusieurs Armes Uniques actives en
+> même temps. Trois réglages ont été baissés côté serveur, appliqués
+> automatiquement à tout le monde :
+>
+> - Les particules passives (celles qui flottent en permanence autour d'une
+>   arme Runique) sont désactivées.
+> - Les effets visuels "de champ" des capacités (le halo de Frostfall, les
+>   pointes de glace, les champs des sorts similaires...) sont désactivés.
+> - Le détail des effets d'orage/éclair (Mjolnir, Stormbringer, Storm's
+>   Edge...) est réduit au minimum.
+>
+> **Les capacités elles-mêmes ne changent pas** — dégâts, ralentissement,
+> attraction, tout le gameplay reste identique. Seul l'habillage visuel est
+> allégé.
 
 ## Catalogue des armes Uniques
 
