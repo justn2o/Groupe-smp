@@ -17,6 +17,7 @@ réglées spécialement pour nous.
 - [Dupliquer un livre enchanté](#dupliquer-un-livre-enchanté)
 - [Un seul Totem d'immortalité](#un-seul-totem-dimmortalité)
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
+- [La Poubelle](#la-poubelle)
 
 ## Se connecter : mot de passe obligatoire
 
@@ -278,3 +279,37 @@ réglage de notre part.
 
 Les détails complets (tableaux de chances par boss et par structure) sont sur
 la page **Simply Swords**, section *Comment les obtenir*.
+
+## La Poubelle
+
+Un bloc pour se débarrasser définitivement d'objets, sans avoir à les jeter
+au sol ou à les brûler dans un feu.
+
+### La recette
+
+|  |  |  |
+|---|---|---|
+| Lingot de fer |  | Lingot de fer |
+| Lingot de fer |  | Lingot de fer |
+| Lingot de fer | Lingot de fer | Lingot de fer |
+
+Soit 5 lingots de fer au total.
+
+### Comment ça marche
+
+- **Clic droit** sur le bloc pour l'ouvrir : ça affiche une interface comme
+  un coffre, avec une seule rangée de cases.
+- Dépose ce que tu veux supprimer. **Tant que tu n'as pas confirmé, rien
+  n'est perdu** — les objets restent dans la Poubelle exactement comme dans
+  un coffre normal : tu peux les reprendre, fermer l'interface, revenir plus
+  tard, ou même redémarrer le serveur, ça ne change rien.
+- Un bouton rouge **"Supprimer"** est affiché sous les cases. C'est le seul
+  geste qui détruit le contenu — et il est irréversible.
+
+> **Attention** : une fois le bouton pressé, les objets sont supprimés
+> définitivement, sans confirmation supplémentaire. Vérifie ce que tu as mis
+> dedans avant de cliquer.
+
+Casser le bloc avec des objets encore dedans (avant confirmation) les fait
+tomber au sol comme un coffre cassé — ils ne sont perdus qu'après avoir
+cliqué sur "Supprimer".
