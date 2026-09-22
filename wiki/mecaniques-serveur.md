@@ -18,6 +18,7 @@ réglées spécialement pour nous.
 - [Un seul Totem d'immortalité](#un-seul-totem-dimmortalité)
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
 - [La Poubelle](#la-poubelle)
+- [Générer une map art : `/mapart`](#générer-une-map-art--mapart)
 
 ## Se connecter : mot de passe obligatoire
 
@@ -326,3 +327,30 @@ Soit 5 lingots de fer au total.
 Casser le bloc avec des objets encore dedans (avant confirmation) les fait
 tomber au sol comme un coffre cassé — ils ne sont perdus qu'après avoir
 cliqué sur "Supprimer".
+
+## Générer une map art : `/mapart`
+
+Une fenêtre pour transformer une image (lien direct vers un `.png`/`.jpg`...)
+en tableau de maps posables sur un mur, sans avoir à deviner la bonne
+résolution.
+
+```
+/mapart
+```
+
+Ouvre un formulaire : colle le lien de l'image, choisis le style de tramage
+(**Floyd-Steinberg** par défaut — le plus fidèle aux couleurs ; **Erreur
+minimisée** et **Aucun** sont les deux autres options du mod), règle la
+largeur et la hauteur **en blocs** (1 à 32), puis clique sur **Générer**.
+
+- **1 bloc de large × 1 bloc de haut** = une seule carte, tient dans un seul
+  cadre.
+- Au-delà, le jeu te donne un item "aperçu" à poser : il déploie tout seul la
+  grille de cartes dans les cadres, dans le bon ordre.
+- Plus c'est grand, plus il y a de détails visibles — mais plus il faut de
+  cadres et de cartes vierges pour le poser.
+
+> Cette fenêtre ne fait qu'écrire la commande `/map4image create` à ta place
+> avec les bons chiffres — c'est le mod **Map4Image**, installé côté serveur,
+> qui fait le vrai travail. Si jamais ce mod est retiré du serveur, `/mapart`
+> arrête de fonctionner exactement comme taper la commande à la main.
