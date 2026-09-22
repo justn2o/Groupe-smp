@@ -124,6 +124,19 @@ demande qu'aucun joueur ne soit à moins de 20 blocs, puis 15 minutes de délai
 avant de pouvoir revenir en arrière, désactiver sa protection avec une prime
 sur la tête est un vrai pari.
 
+**Se planquer derrière la protection a un prix.** Tant qu'un joueur reste
+protégé avec une prime active sur sa tête :
+
+- il ne **gagne plus d'XP**, peu importe la source (minage, fonte, mobs,
+  troc...) ;
+- il ne peut **garder aucun effet positif** (Force, Vitesse, Régénération...)
+  — ils sont retirés automatiquement, encore et encore ;
+- il subit en permanence **Lenteur I**.
+
+La pénalité s'arrête à l'instant où la protection ou la prime disparaît — pas
+de minuteur à attendre, pas de compte à rebours : juste le temps que l'un des
+deux cesse d'être vrai.
+
 ## Le Cœur de Vie
 
 Un objet créé sur mesure pour le serveur. Le consommer donne **+1 cœur de
