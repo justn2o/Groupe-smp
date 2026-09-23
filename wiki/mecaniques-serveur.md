@@ -19,6 +19,7 @@ réglées spécialement pour nous.
 - [Armes légendaires plus accessibles](#armes-légendaires-plus-accessibles)
 - [La Poubelle](#la-poubelle)
 - [Générer une map art : `/mapart`](#générer-une-map-art--mapart)
+- [Le classement : `/classement`](#le-classement--classement)
 
 ## Se connecter : mot de passe obligatoire
 
@@ -354,3 +355,20 @@ largeur et la hauteur **en blocs** (1 à 32), puis clique sur **Générer**.
 > avec les bons chiffres — c'est le mod **Map4Image**, installé côté serveur,
 > qui fait le vrai travail. Si jamais ce mod est retiré du serveur, `/mapart`
 > arrête de fonctionner exactement comme taper la commande à la main.
+
+## Le classement : `/classement`
+
+```
+/classement
+```
+
+Ouvre une fenêtre avec cinq onglets — **Primes** (piles d'objets récoltées
+en tuant des cibles à prix), **Kills**, **Morts**, **Temps de jeu** et
+**Cœurs de Vie** — chacun affichant le top 10, trié automatiquement. Si tu
+n'es pas dans le top 10 d'un onglet, ta propre position s'affiche quand même
+en dessous.
+
+Les stats comptent à partir du moment où cette fonctionnalité a été mise en
+ligne — pas de reconstitution de l'historique d'avant. Rien à faire de
+particulier : primes, kills, morts, temps de jeu et Cœurs de Vie consommés
+s'enregistrent automatiquement, en jouant normalement.
