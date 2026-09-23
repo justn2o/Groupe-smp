@@ -213,6 +213,10 @@ combattant à deux armes à la fois.
 > **Les capacités elles-mêmes ne changent pas** — dégâts, ralentissement,
 > attraction, tout le gameplay reste identique. Seul l'habillage visuel est
 > allégé.
+>
+> Un membre du staff peut les réactiver temporairement pour tout le monde
+> (par exemple pour un évènement ou une capture d'écran) — c'est un
+> interrupteur global, pas un réglage par joueur.
 
 ## Catalogue des armes Uniques
 
