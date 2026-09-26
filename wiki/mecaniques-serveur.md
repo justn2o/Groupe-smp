@@ -400,13 +400,15 @@ déplacé, ni recréé, seulement affiché à côté du nouvel espace.
 
 ## L'Autel Fleuri
 
-Un bloc décoratif — un genre de balise en pierre moussue, fleurie, avec une
-rune qui brille au sommet — qui **fait pousser tout seul les plantes dans un
-rayon de 10 blocs autour de lui**, comme si quelqu'un utilisait de la
-poudre d'os dessus en permanence : cultures (blé, carottes, pommes de
-terre, betteraves, citrouilles, pastèques...), jeunes arbres, canne à
-sucre concernée par la pousse, tout ce que la poudre d'os ferait pousser
-normalement.
+Un bloc décoratif — un socle en pierre gravée de runes, avec quelques
+fleurs à sa base — qui **fait pousser tout seul les plantes dans un rayon
+de 10 blocs autour de lui**, comme si quelqu'un utilisait de la poudre
+d'os dessus en permanence : cultures (blé, carottes, pommes de terre,
+betteraves, citrouilles, pastèques...), jeunes arbres, et tout ce que la
+poudre d'os ferait pousser normalement. **La canne à sucre en profite
+aussi**, alors qu'elle ignore la vraie poudre d'os dans Minecraft de base
+— cas spécial ajouté exprès pour elle, plafonné aux mêmes 3 blocs de haut
+qu'une canne pousse normalement toute seule.
 
 ### La recette
 
