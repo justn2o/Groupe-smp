@@ -21,6 +21,7 @@ craftable — il faut la trouver.
   - [Les emplacements de gemmes](#les-emplacements-de-gemmes)
 - [Les pouvoirs Runiques](#les-pouvoirs-runiques)
 - [Effets visuels allégés](#effets-visuels-all%C3%A9g%C3%A9s)
+- [Sunder (sape d'armure) retiré](#sunder-sape-darmure-retir%C3%A9)
 - [Catalogue des armes Uniques](#catalogue-des-armes-uniques)
 
 ## Les familles d'armes
@@ -222,6 +223,22 @@ combattant à deux armes à la fois.
 > (par exemple pour un évènement ou une capture d'écran) — c'est un
 > interrupteur global, pas un réglage par joueur.
 
+## Sunder (sape d'armure) retiré
+
+> **Réglage spécifique au Groupe SMP.** Les Marteaux et Grands Marteaux
+> (craftables comme Uniques — Frostfall, Hearthflame, Hiveheart, Mjolnir,
+> Soulkeeper) ont un implicite "Sunder" qui réduit l'armure de la cible à
+> chaque coup, cumulable. Il a été entièrement retiré sur ce serveur :
+> aucune arme ne peut plus l'appliquer, à qui que ce soit.
+>
+> **L'infobulle en jeu peut encore mentionner "Sunders X % armure par
+> coup"** sur ces armes — c'est un texte généré par Simply Swords
+> lui-même, qu'on n'a pas cherché à modifier. L'effet réel derrière, lui,
+> ne se déclenche plus du tout.
+>
+> Les autres implicites (perce-armure, saignement, riposte, coup double,
+> hâte...) ne sont pas concernés, seul Sunder est visé.
+
 ## Catalogue des armes Uniques
 
 Ci-dessous, toutes les armes Uniques trouvées à ce jour dans la
@@ -379,7 +396,8 @@ d'Éveil.
 ![Frostfall](https://raw.githubusercontent.com/Sweenus/SimplySwords/Architectury-1.21/docs/.assets/item/simplyswords/frostfall.png)
 
 - **Type d'arme** : Marteau
-- **Implicite** : sape 2 à 6 % de l'armure par coup
+- **Implicite** : sape 2 à 6 % de l'armure par coup *(désactivé sur ce
+  serveur, voir plus bas)*
 - **Capacité** : *Furie Glaciale* — arme avec Fidélité III innée. Clic
   droit : lance l'arme (temps de vol et angle influencent les dégâts) ; à
   l'atterrissage, elle pulse 5 fois en ralentissant et attirant les
@@ -410,7 +428,8 @@ d'Éveil.
 ![Hearthflame](https://raw.githubusercontent.com/Sweenus/SimplySwords/Architectury-1.21/docs/.assets/item/simplyswords/hearthflame.png)
 
 - **Type d'arme** : Grand marteau
-- **Implicite** : sape 2 à 10 % de l'armure par coup
+- **Implicite** : sape 2 à 10 % de l'armure par coup *(désactivé sur ce
+  serveur, voir plus bas)*
 - **Capacité** : *Chaînes de la Fournaise* — les coups marquent et
   enflamment les ennemis. Clic droit : enchaîne les ennemis proches avec
   des chaînes en fusion ; à pression maximale, le prochain coup brise
@@ -421,7 +440,8 @@ d'Éveil.
 ![Hiveheart](https://raw.githubusercontent.com/Sweenus/SimplySwords/Architectury-1.21/docs/.assets/item/simplyswords/hiveheart.png)
 
 - **Type d'arme** : Grand marteau
-- **Implicite** : sape 2 à 10 % de l'armure par coup
+- **Implicite** : sape 2 à 10 % de l'armure par coup *(désactivé sur ce
+  serveur, voir plus bas)*
 - **Capacité** : *Esprit de la Ruche* — libère une abeille furieuse au
   toucher (max 1 fois/3s). Clic droit : libère un essaim d'abeilles qui
   harcèlent et ralentissent les ennemis proches.
@@ -505,7 +525,8 @@ d'Éveil.
 ![Mjolnir](https://raw.githubusercontent.com/Sweenus/SimplySwords/Architectury-1.21/docs/.assets/item/simplyswords/mjolnir.png)
 
 - **Type d'arme** : Marteau
-- **Implicite** : sape 2 à 6 % de l'armure par coup
+- **Implicite** : sape 2 à 6 % de l'armure par coup *(désactivé sur ce
+  serveur, voir plus bas)*
 - **Capacité** : *Tempête* — les coups rendent les ennemis Conducteurs.
   Clic droit : invoque une tempête mobile qui frappe les ennemis à
   répétition avant un puissant coup de tonnerre.
@@ -564,7 +585,8 @@ d'Éveil.
 ![Soulkeeper](https://raw.githubusercontent.com/Sweenus/SimplySwords/Architectury-1.21/docs/.assets/item/simplyswords/soulkeeper.png)
 
 - **Type d'arme** : Grand marteau
-- **Implicite** : sape 2 à 10 % de l'armure par coup
+- **Implicite** : sape 2 à 10 % de l'armure par coup *(désactivé sur ce
+  serveur, voir plus bas)*
 - **Capacité** : *Fusion des Âmes* — deux lanternes d'âmes orbitent en
   blessant les ennemis touchés. Clic droit : invoque deux lanternes
   supplémentaires temporairement.
