@@ -388,11 +388,11 @@ s'enregistrent automatiquement, en jouant normalement.
 ## Le Coffre de l'End agrandi
 
 Le Coffre de l'End (celui qui suit ton stockage privé partout, pas besoin
-de le rapporter) tient maintenant **3 fois plus** — 81 cases au lieu de 27.
-Rien à changer dans ta façon de jouer : clique droit dessus comme
-d'habitude, la fenêtre s'ouvre juste plus grande.
+de le rapporter) tient maintenant **2 fois plus** — 54 cases au lieu de 27,
+la taille d'un vrai double-coffre. Rien à changer dans ta façon de jouer :
+clique droit dessus comme d'habitude, la fenêtre s'ouvre juste plus grande.
 
 Les 27 premières cases restent ton vrai Coffre de l'End vanilla, exactement
-comme avant — les 54 en plus sont un espace de rangement séparé accolé au
+comme avant — les 27 en plus sont un espace de rangement séparé accolé au
 même endroit. Aucune perte possible : le contenu d'origine n'est ni
 déplacé, ni recréé, seulement affiché à côté du nouvel espace.
