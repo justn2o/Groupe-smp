@@ -279,8 +279,9 @@ message te prévient à l'écran. Le premier trouvé est conservé.
 ## Armes légendaires plus accessibles
 
 Les armes Uniques de **Simply Swords** sont bien plus faciles à obtenir chez
-nous que dans le mod d'origine : chaque boss en laisse tomber une garantie,
-et les grandes structures ont des taux fortement relevés.
+nous que dans le mod d'origine : chaque boss a de bonnes chances d'en laisser
+tomber une (100 % pour le Dragon de l'Ender, 50 % pour les trois autres), et
+les grandes structures ont des taux fortement relevés.
 
 **Et elles arrivent prêtes à l'emploi.** Normalement, une arme Unique tombe
 "endormie" : sa capacité au clic droit est scellée tant qu'on ne l'a pas

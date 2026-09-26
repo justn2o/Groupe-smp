@@ -99,15 +99,19 @@ activable au clic droit).
 > récompensés. Les chiffres ci-dessous sont les nôtres, pas ceux du mod
 > d'origine.
 
-- **Tuer un boss** — un boss laisse tomber une arme Unique **au hasard, avec
-  100 % de chances**. C'est la voie la plus directe.
+- **Tuer un boss** — un boss laisse tomber une arme Unique **au hasard**.
+  C'est la voie la plus directe.
 
   | Boss | Chance |
   |---|---|
   | Dragon de l'Ender | 100 % |
-  | Wither | 100 % |
-  | Warden | 100 % |
-  | Gardien ancien (Elder Guardian) | 100 % |
+  | Wither | 50 % |
+  | Warden | 50 % |
+  | Gardien ancien (Elder Guardian) | 50 % |
+
+  ⚠️ Contrairement aux structures ci-dessous, **il n'y a pas de garantie
+  ("pity") sur les boss** — c'est un tirage indépendant à chaque fois, sans
+  mémoire des tentatives précédentes. Une série de malchance est possible.
 
 - **Fouiller les structures** — chaque coffre a **3 %** de chances (au lieu
   de 0,05 % dans le mod d'origine), le même taux pour toutes les
