@@ -20,6 +20,7 @@ réglées spécialement pour nous.
 - [La Poubelle](#la-poubelle)
 - [Générer une map art : `/mapart`](#générer-une-map-art--mapart)
 - [Le classement : `/classement`](#le-classement--classement)
+- [Le Coffre de l'End agrandi](#le-coffre-de-lend-agrandi)
 
 ## Se connecter : mot de passe obligatoire
 
@@ -383,3 +384,15 @@ Les stats comptent à partir du moment où cette fonctionnalité a été mise en
 ligne — pas de reconstitution de l'historique d'avant. Rien à faire de
 particulier : primes, kills, morts, temps de jeu et Cœurs de Vie consommés
 s'enregistrent automatiquement, en jouant normalement.
+
+## Le Coffre de l'End agrandi
+
+Le Coffre de l'End (celui qui suit ton stockage privé partout, pas besoin
+de le rapporter) tient maintenant **3 fois plus** — 81 cases au lieu de 27.
+Rien à changer dans ta façon de jouer : clique droit dessus comme
+d'habitude, la fenêtre s'ouvre juste plus grande.
+
+Les 27 premières cases restent ton vrai Coffre de l'End vanilla, exactement
+comme avant — les 54 en plus sont un espace de rangement séparé accolé au
+même endroit. Aucune perte possible : le contenu d'origine n'est ni
+déplacé, ni recréé, seulement affiché à côté du nouvel espace.
