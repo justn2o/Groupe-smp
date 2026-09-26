@@ -293,12 +293,15 @@ Le pool de butin contient **40 armes** sur les 58 du mod. Les 18 autres ne
 s'obtiennent que par les Reliques Contenues — c'est voulu par le mod, pas un
 réglage de notre part.
 
-**Chaque arme Unique n'existe qu'en un seul exemplaire, tué par un boss.**
-Si le tirage tombe sur une épée qu'un boss a déjà donnée ailleurs sur le
-serveur, il est automatiquement redirigé vers une autre Unique pas encore
-distribuée — un kill réussi donne donc toujours quelque chose, jamais un
-doublon. Cette règle ne couvre que les boss : une Unique trouvée dans un
-coffre de structure n'est pas suivie par ce système.
+**Chaque arme Unique n'existe qu'en un seul exemplaire sur tout le
+serveur, peu importe comment elle a été obtenue** — boss, coffre de
+structure, Relique Contenue, tout est couvert. Si un boss est sur le point
+de donner une épée déjà possédée par quelqu'un d'autre, elle est
+automatiquement remplacée par une autre Unique pas encore distribuée avant
+même de toucher le sol — un kill réussi donne donc toujours quelque chose,
+jamais un doublon. Pour les autres sources (coffres, Reliques...), une
+vérification tourne en permanence en arrière-plan et corrige le tir en
+quelques secondes si un doublon apparaît malgré tout dans un inventaire.
 
 Les détails complets (tableaux de chances par boss et par structure) sont sur
 la page **Simply Swords**, section *Comment les obtenir*.
