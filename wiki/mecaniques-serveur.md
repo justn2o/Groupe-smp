@@ -21,6 +21,7 @@ réglées spécialement pour nous.
 - [Générer une map art : `/mapart`](#générer-une-map-art--mapart)
 - [Le classement : `/classement`](#le-classement--classement)
 - [Le Coffre de l'End agrandi](#le-coffre-de-lend-agrandi)
+- [L'Autel Fleuri](#lautel-fleuri)
 
 ## Se connecter : mot de passe obligatoire
 
@@ -396,3 +397,33 @@ Les 27 premières cases restent ton vrai Coffre de l'End vanilla, exactement
 comme avant — les 27 en plus sont un espace de rangement séparé accolé au
 même endroit. Aucune perte possible : le contenu d'origine n'est ni
 déplacé, ni recréé, seulement affiché à côté du nouvel espace.
+
+## L'Autel Fleuri
+
+Un bloc décoratif — un genre de balise en pierre moussue, fleurie, avec une
+rune qui brille au sommet — qui **fait pousser tout seul les plantes dans un
+rayon de 10 blocs autour de lui**, comme si quelqu'un utilisait de la
+poudre d'os dessus en permanence : cultures (blé, carottes, pommes de
+terre, betteraves, citrouilles, pastèques...), jeunes arbres, canne à
+sucre concernée par la pousse, tout ce que la poudre d'os ferait pousser
+normalement.
+
+### La recette
+
+|  |  |  |
+|---|---|---|
+| Coquelicot |  | Coquelicot |
+| Brique de pierre moussue | Poudre d'os | Brique de pierre moussue |
+| Brique de pierre moussue | Brique de pierre moussue | Brique de pierre moussue |
+
+### Comment ça marche
+
+- Pose-le simplement au sol, aucune interaction nécessaire — il agit tout
+  seul, en continu, tant qu'il reste posé et que la zone autour reste
+  chargée (un joueur à proximité suffit).
+- L'effet est **aléatoire et progressif**, pas instantané : il tente sa
+  chance sur quelques plantes au hasard dans le rayon toutes les secondes,
+  exactement comme si tu passais avec de la poudre d'os toi-même — pense-y
+  comme une ferme qui pousse un peu plus vite plutôt qu'un bouton "tout
+  faire pousser d'un coup".
+- Casser le bloc récupère l'Autel Fleuri intact, comme n'importe quel bloc.
