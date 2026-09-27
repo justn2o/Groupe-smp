@@ -305,6 +305,10 @@ jamais un doublon. Pour les autres sources (coffres, Reliques...), une
 vérification tourne en permanence en arrière-plan et corrige le tir en
 quelques secondes si un doublon apparaît malgré tout dans un inventaire.
 
+Et si une Unique est détruite (brûlée, `/kill`, jetée à la Poubelle...),
+elle redevient disponible — quelqu'un d'autre pourra retomber dessus plus
+tard, elle n'est pas perdue pour tout le monde définitivement.
+
 Les détails complets (tableaux de chances par boss et par structure) sont sur
 la page **Simply Swords**, section *Comment les obtenir*.
 
