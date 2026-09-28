@@ -2,7 +2,7 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.249",
-  "manifest_version": 39,
+  "manifest_version": 40,
   "mods": [
     {
       "modrinth_id": "LOpKHB2A",
@@ -231,6 +231,12 @@
       "modrinth_version_id": "yohfFbgD",
       "required": true,
       "category": "librairie"
+    },
+    {
+      "modrinth_id": "kYuIpRLv",
+      "modrinth_version_id": "7ndXqAZv",
+      "required": true,
+      "category": "cosmetique"
     }
   ],
   "custom_mods": [

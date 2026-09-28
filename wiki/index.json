@@ -36,7 +36,8 @@
         { "id": "exposure", "title": "Exposure", "path": "mod-exposure.md" },
         { "id": "meubles", "title": "Meubles (Macaw's & Another)", "path": "mod-meubles.md" },
         { "id": "voyager-structures", "title": "Moog's Voyager Structures", "path": "mod-voyager-structures.md" },
-        { "id": "pam-harvestcraft", "title": "Pam's HarvestCraft 2", "path": "mod-pam-harvestcraft.md" }
+        { "id": "pam-harvestcraft", "title": "Pam's HarvestCraft 2", "path": "mod-pam-harvestcraft.md" },
+        { "id": "wavey-capes", "title": "Wavey Capes", "path": "mod-wavey-capes.md" }
       ]
     }
   ]
