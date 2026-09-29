@@ -22,6 +22,7 @@ réglées spécialement pour nous.
 - [Le classement : `/classement`](#le-classement--classement)
 - [Le Coffre de l'End agrandi](#le-coffre-de-lend-agrandi)
 - [L'Autel Fleuri](#lautel-fleuri)
+- [La cape personnalisée](#la-cape-personnalisée)
 
 ## Se connecter : mot de passe obligatoire
 
@@ -433,3 +434,30 @@ qu'une canne pousse normalement toute seule.
   comme une ferme qui pousse un peu plus vite plutôt qu'un bouton "tout
   faire pousser d'un coup".
 - Casser le bloc récupère l'Autel Fleuri intact, comme n'importe quel bloc.
+
+## La cape personnalisée
+
+Le launcher a un onglet **Cape** : importe une image ou un GIF, et le jeu te
+donne une vraie cape — visible par **tout le monde sur le serveur**, pas
+juste dans ton propre aperçu.
+
+- **Une image** (PNG, JPG...) donne une cape fixe, ajustée automatiquement
+  pour remplir tout le tissu (elle est recadrée au centre si les proportions
+  ne correspondent pas exactement). Elle ondule naturellement au vent et en
+  te déplaçant, comme n'importe quelle cape.
+- **Un GIF** donne une cape **réellement animée en jeu** — jusqu'à 16 images,
+  qui défilent en boucle pour tous ceux qui te regardent, pas seulement dans
+  le launcher.
+
+### Comment ça marche
+
+1. Onglet **Cape** dans le launcher, choisis ton fichier, clique
+   **Enregistrer**.
+2. Connecte-toi (ou tape `/capesync` en jeu si tu changes de cape en cours de
+   partie) — le jeu envoie ton image au serveur, qui l'héberge et te
+   l'applique. Ça prend quelques secondes.
+
+> La toute première fois que tu changes de cape pendant qu'un autre joueur
+> est déjà connecté et te regarde, il se peut qu'il doive se reconnecter (ou
+> que tu te reconnectes) pour la voir tout de suite — sinon elle apparaît
+> normalement à la prochaine connexion de chacun.
