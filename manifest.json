@@ -2,7 +2,7 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.249",
-  "manifest_version": 51,
+  "manifest_version": 52,
   "mods": [
     {
       "modrinth_id": "LOpKHB2A",
@@ -237,6 +237,18 @@
       "modrinth_version_id": "7ndXqAZv",
       "required": true,
       "category": "cosmetique"
+    },
+    {
+      "modrinth_id": "YhmgMVyu",
+      "modrinth_version_id": "K5X5qMwG",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "ccKDOlHs",
+      "modrinth_version_id": "NMCHU6DZ",
+      "required": true,
+      "category": "librairie"
     }
   ],
   "custom_mods": [
