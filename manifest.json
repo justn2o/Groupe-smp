@@ -2,7 +2,7 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.249",
-  "manifest_version": 55,
+  "manifest_version": 56,
   "mods": [
     {
       "modrinth_id": "LOpKHB2A",
@@ -277,6 +277,42 @@
     {
       "modrinth_id": "zfbCkvdZ",
       "modrinth_version_id": "rCSmCZpX",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "46KJle7n",
+      "modrinth_version_id": "PsPYpoCC",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "FoVacERa",
+      "modrinth_version_id": "fTRMVgyZ",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "hFUzfDsn",
+      "modrinth_version_id": "snhDYBxP",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "8BmcQJ2H",
+      "modrinth_version_id": "Grwn5rUB",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "9s6osm5g",
+      "modrinth_version_id": "izKINKFg",
+      "required": true,
+      "category": "librairie"
+    },
+    {
+      "modrinth_id": "GkIc6rRo",
+      "modrinth_version_id": "5wbxkBQ1",
       "required": true,
       "category": "librairie"
     }
