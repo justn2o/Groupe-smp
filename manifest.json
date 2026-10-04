@@ -2,7 +2,7 @@
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.249",
-  "manifest_version": 53,
+  "manifest_version": 55,
   "mods": [
     {
       "modrinth_id": "LOpKHB2A",
@@ -267,6 +267,18 @@
       "modrinth_version_id": "qPr8V4G2",
       "required": true,
       "category": "gameplay"
+    },
+    {
+      "modrinth_id": "BpwWFOVM",
+      "modrinth_version_id": "swTb6NU9",
+      "required": true,
+      "category": "gameplay"
+    },
+    {
+      "modrinth_id": "zfbCkvdZ",
+      "modrinth_version_id": "rCSmCZpX",
+      "required": true,
+      "category": "librairie"
     }
   ],
   "custom_mods": [
