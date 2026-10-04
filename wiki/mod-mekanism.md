@@ -371,8 +371,9 @@ Autres solutions de stockage :
 - **Téléporteur** (*Teleporter*) : deux cadres reliés par une fréquence. Le
   coût en énergie d'un saut est de **1 000 J + 10 J par bloc de distance**,
   plus **10 000 J** si on change de dimension.
-- **Téléporteur portable** : ouvre une liste de téléporteurs à distance
-  (délai de téléportation de 0 tick).
+- **Téléporteur portable** : ouvre une liste de téléporteurs à distance. Sur ce
+  serveur, la téléportation se déclenche **5 secondes (100 ticks)** après le
+  clic (instantanée par défaut dans le mod).
 - **Noyau de téléportation** : l'ingrédient de base de toutes ces machines
   (4 perles de l'Ender, 2 alliages atomiques, 1 diamant, 2 lingots d'or).
 
@@ -387,7 +388,7 @@ Autres solutions de stockage :
 | **Coureuses** (*Free Runners*) | Annulent les dégâts de chute en consommant de l'énergie (64 000 J). Version blindée disponible. |
 | **Tenue hazmat** (masque, robe, pantalon, bottes) | Protège des **radiations** (en plomb, teintes orange et noire). |
 | **Compteur Geiger** et **Dosimètre** | Mesurent la radioactivité ambiante et la dose que tu as reçue. |
-| **Lance-flamme** | Brûle ; **allume des feux** (voir réglages). Réservoir d'hydrogène 24 000 mB. |
+| **Lance-flamme** | Brûle ; **allume des feux** (voir réglages). Réservoir d'hydrogène 24 000 mB. Sur ce serveur, il **ne détruit pas** les objets au sol qu'il ne peut pas cuire (il le fait par défaut dans le mod). |
 | **Arc électrique** | Arc à énergie (120 000 J) ; mode flamme. |
 | **Configurateur**, **Carte de configuration** | Règlent les faces d'une machine / copient une configuration. |
 | **Dictionnaire** | Montre les *tags* de n'importe quel bloc, objet ou fluide. |
@@ -396,8 +397,9 @@ Autres solutions de stockage :
 
 Une pioche-épée électrique (1 000 000 J, recharge 5 000 J/t). Modes **lent** et
 **rapide** (le mode **extraction de filon** est **désactivé** sur ce serveur).
-Comme arme : **jusqu'à 20 points de dégâts bonus (10 cœurs)** s'il lui reste au
-moins 2 000 J, **4 points** sinon.
+Comme arme : **jusqu'à 7 points de dégâts bonus (3,5 cœurs)** s'il lui reste au
+moins 2 000 J, **4 points** sinon. C'est le niveau d'une épée en netherite ;
+le mod en donne **20** par défaut (10 cœurs), réduit ici pour le PvP.
 
 ### L'Outil Meka et la MekaSuit
 
@@ -434,13 +436,20 @@ Les chiffres de base (modifiables par les modules) :
 - **Énergie** : 16 000 000 J de base par pièce, recharge 100 000 J/t. Elle
   augmente fortement avec les modules d'énergie.
 - **Absorption** : tant que la combinaison est **complète** et a **de
-  l'énergie**, elle absorbe **100 %** des dégâts « ordinaires » (ceux qui ne
-  contournent pas l'armure), au prix de **100 000 J par point de dégât**. Les
-  bottes absorbent aussi 100 % des chutes (50 J par demi-cœur) et le casque,
-  avec l'Unité de purification d'inhalation, 100 % des dégâts magiques.
+  l'énergie**, elle absorbe **la moitié (50 %)** des dégâts « ordinaires »
+  (coups de joueurs et de monstres, flèches, explosions : tout ce qui ne
+  contourne pas l'armure), au prix de **100 000 J par point de dégât absorbé**.
+  Le mod en absorbe **100 %** par défaut, ce qui rend invulnérable : c'est
+  réduit ici. Le casque, avec l'Unité de purification d'inhalation, absorbe
+  **50 %** des dégâts magiques (potions de dégâts, poison). Les bottes absorbent
+  toujours **100 %** des chutes (50 J par demi-cœur). Les dégâts de
+  l'environnement (feu, lave, foudre, cactus, wither...) restent absorbés à
+  100 % tant que la combinaison a de l'énergie : c'est fixé par le mod, pas par
+  un réglage.
 - **Outils Meka** : 16 000 000 J, dégâts de base 4, vitesse d'attaque −2,4,
-  **téléportation jusqu'à 100 blocs** (1 000 J pour 10 blocs), **extraction de
-  filon étendue** (tous les blocs, pas seulement minerais et bûches).
+  **téléportation jusqu'à 32 blocs** sur ce serveur (100 par défaut ; 1 000 J
+  pour 10 blocs), **extraction de filon étendue** (tous les blocs, pas
+  seulement minerais et bûches).
 
 Les **modules** s'installent à la **Station de modification** (qui demande des
 pastilles de polonium), sur la pièce qui les accepte (casque, plastron,
@@ -542,9 +551,11 @@ est en mB d'antimatière) :
 
 Les réglages de Mekanism sont dans `config/Mekanism/*.toml` (⚠️ avec une
 **majuscule** : sur un serveur Linux, `mekanism` et `Mekanism` sont deux
-dossiers différents). Tout est aux valeurs par défaut du mod, **sauf la
-régénération des minerais**, activée à cause de la carte déjà explorée
-(`world.toml` : `enableRegeneration = true`, `userWorldGenVersion = 1`).
+dossiers différents). Tout est aux valeurs par défaut du mod, **sauf** :
+
+- **la régénération des minerais**, activée à cause de la carte déjà explorée
+  (`world.toml` : `enableRegeneration = true`, `userWorldGenVersion = 1`) ;
+- **l'équilibrage PvP** dans `gear.toml` (6 valeurs, détaillées plus bas).
 
 | Réglage | Valeur | Conséquence |
 |---|---|---|
@@ -560,16 +571,25 @@ régénération des minerais**, activée à cause de la carte déjà explorée
 | Boîte en carton | **sans restriction de mod** | Peut déplacer des blocs de tous les mods (sauf lits, portes, *Vault*, *Trial Spawner*). |
 | Désassembleur atomique : extraction de filon | désactivée | |
 | Outils Meka : extraction de filon étendue | activée | |
+| **PvP** — absorption des dégâts ordinaires par la MekaSuit | **50 %** (défaut : 100 %) | `unspecifiedDamageReductionRatio` |
+| **PvP** — absorption des dégâts magiques (casque) | **50 %** (défaut : 100 %) | `magicDamageReductionRatio` |
+| **PvP** — dégâts bonus max du Désassembleur atomique | **7** (défaut : 20) | `maxDamage` ≈ épée en netherite |
+| **PvP** — portée de téléportation de l'Outils Meka | **32 blocs** (défaut : 100) | `maxTeleportReach` |
+| **PvP** — délai du Téléporteur portable | **100 ticks / 5 s** (défaut : 0) | `delay` |
+| **PvP** — le lance-flamme détruit les objets au sol | **non** (défaut : oui) | `destroyItems` |
 
 ### Points d'attention (pour les admins)
 
-- **PvP** : la MekaSuit complète et chargée absorbe **100 %** des dégâts
-  ordinaires, et l'Outils Meka peut téléporter jusqu'à **100 blocs** (avec le
-  module de téléportation). Seule la filière nucléaire (réacteur à fission et
-  traitement de ses déchets) en barre l'accès : à surveiller de près. Le
-  **Désassembleur atomique**, lui, est accessible bien plus tôt (alliages
-  atomiques, tablette d'énergie, obsidienne raffinée) et inflige jusqu'à
-  **10 cœurs de dégâts bonus**.
+- **PvP — réglages appliqués** : `config/Mekanism/gear.toml` réduit les points
+  qui rendaient la fin de partie injuste en combat (voir le tableau ci-dessus).
+  Restent **non réglables** par config : les **modules** (par exemple l'Unité
+  d'amplification d'attaque, ou le vol) ne se règlent pas en `.toml`.
+  Restent **inchangés** : le **laser** (un laser et son amplificateur peuvent
+  tuer à distance et casser des blocs), le **jetpack** et le vol de la MekaSuit.
+  Seule la filière nucléaire (réacteur à fission et traitement de ses déchets)
+  barre l'accès à la MekaSuit : à surveiller de près.
+- **Pour revenir aux valeurs du mod** : remets les 6 valeurs du tableau à leur
+  défaut dans `gear.toml` (serveur éteint).
 - **Nucléosynthétiseur** : peut créer des **Œufs de dragon**, des **Pommes
   dorées enchantées**, des **Tridents**, des **Crânes de Wither**... avec de
   l'antimatière (donc du polonium). Voir plus haut.
