@@ -37,7 +37,11 @@
         { "id": "meubles", "title": "Meubles (Macaw's & Another)", "path": "mod-meubles.md" },
         { "id": "voyager-structures", "title": "Moog's Voyager Structures", "path": "mod-voyager-structures.md" },
         { "id": "pam-harvestcraft", "title": "Pam's HarvestCraft 2", "path": "mod-pam-harvestcraft.md" },
-        { "id": "wavey-capes", "title": "Wavey Capes", "path": "mod-wavey-capes.md" }
+        { "id": "wavey-capes", "title": "Wavey Capes", "path": "mod-wavey-capes.md" },
+        { "id": "aether", "title": "The Aether", "path": "mod-aether.md" },
+        { "id": "mekanism", "title": "Mekanism", "path": "mod-mekanism.md" },
+        { "id": "mekanism-generators", "title": "Mekanism Generators", "path": "mod-mekanism-generators.md" },
+        { "id": "create-additions", "title": "Create Crafts & Additions", "path": "mod-create-additions.md" }
       ]
     }
   ]
